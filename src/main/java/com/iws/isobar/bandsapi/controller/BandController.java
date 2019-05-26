@@ -1,4 +1,4 @@
-package com.iws.isobar.bandsapi.rest;
+package com.iws.isobar.bandsapi.controller;
 
 import com.iws.isobar.bandsapi.models.Band;
 import com.iws.isobar.bandsapi.models.SortingEnum;
@@ -15,15 +15,14 @@ import static org.springframework.web.bind.annotation.RequestMethod.GET;
 
 @RequestMapping("/bands/service/v1")
 @RestController
-public class BandRest {
-    private static final Logger LOGGER = LoggerFactory.getLogger(BandRest.class);
+public class BandController {
+    private static final Logger LOGGER = LoggerFactory.getLogger(BandController.class);
     @Autowired
     BandService bandService;
 
     @RequestMapping(value = "/bands", method = GET)
     @ResponseBody
     public List<Band> getBands(@RequestParam(value = "name", required = false) String name, @RequestHeader("type.sort") SortingEnum sortingEnum) {
-        System.out.println(sortingEnum.getCode());
         if (StringUtils.isNotBlank(name)) {
             LOGGER.info("Request received at /bands?name=");
             return bandService.getBandsByFilterByName(name, sortingEnum);

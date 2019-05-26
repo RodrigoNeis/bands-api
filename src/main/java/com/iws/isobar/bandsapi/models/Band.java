@@ -19,6 +19,7 @@ import java.util.Map;
         "id",
         "albumList"
 })
+@Data
 @Getter
 @Setter
 @AllArgsConstructor
