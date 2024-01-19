@@ -43,7 +43,7 @@ public class Band {
     @JsonProperty("id")
     public String id;
     @JsonProperty("albumList")
-    public List<List<AlbumList>> albumList = null;
+    public List<AlbumList> albumList = null;
     @JsonIgnore
     private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
