@@ -1,8 +1,19 @@
 
 package com.iws.isobar.bandsapi.models;
 
-import com.fasterxml.jackson.annotation.*;
-import lombok.*;
+import com.fasterxml.jackson.annotation.JsonAnyGetter;
+import com.fasterxml.jackson.annotation.JsonAnySetter;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
 
 import java.util.HashMap;
 import java.util.List;
@@ -39,11 +50,9 @@ public class Band {
     @JsonProperty("numPlays")
     public Integer numPlays;
     @JsonProperty("albums")
-    public List<String> albums = null;
+    public List<AlbumList> albums = null;
     @JsonProperty("id")
     public String id;
-    @JsonProperty("albumList")
-    public List<AlbumList> albumList = null;
     @JsonIgnore
     private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
