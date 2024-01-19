@@ -1,0 +1,3946 @@
+[
+    {
+        "name": "The Beatles",
+        "image": "beatles_band.jpg",
+        "genre": "Rock",
+        "biography": "The Beatles are one of the most influential rock bands in history, hailing from Liverpool, England. Formed in 1960, the band consisted of John Lennon, Paul McCartney, George Harrison, and Ringo Starr.",
+        "numPlays": 1323214,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4501",
+        "albums": [
+            {
+                "name": "Abbey Road",
+                "image": "abbey_road_album_cover.jpg",
+                "releasedDate": "1969-09-26",
+                "band": "The Beatles",
+                "tracks": [
+                    {
+                        "name": "Come Together",
+                        "duration": 259,
+                        "id": "a1f8e88c-2a08-4c49-aa9e-2e1105dc4588"
+                    },
+                    {
+                        "name": "Something",
+                        "duration": 181,
+                        "id": "47e4c3d1-9e62-4e9d-baa6-0d7e3c9b0c56"
+                    },
+                    {
+                        "name": "Oh! Darling",
+                        "duration": 217,
+                        "id": "8e5159b7-d8ef-4f1f-ae9b-670ad1eaf8c2"
+                    }
+                ],
+                "id": "3d1f7e53-0cf9-4f21-a801-09488f34c5c2"
+            },
+            {
+                "name": "Sgt. Pepper's Lonely Hearts Club Band",
+                "image": "sgt_peppers_album_cover.jpg",
+                "releasedDate": "1967-05-26",
+                "band": "The Beatles",
+                "tracks": [
+                    {
+                        "name": "Lucy in the Sky with Diamonds",
+                        "duration": 205,
+                        "id": "d2e9cb2f-9564-48c4-804f-cce0f13a02b3"
+                    },
+                    {
+                        "name": "With a Little Help from My Friends",
+                        "duration": 163,
+                        "id": "d6a62d1f-d1d2-4b92-b801-1e5bf1f15767"
+                    },
+                    {
+                        "name": "A Day in the Life",
+                        "duration": 334,
+                        "id": "7b906209-90ea-41a2-8356-00804e6d5c8c"
+                    }
+                ],
+                "id": "e7697a18-1c2c-40ae-90a3-62a3f68c64b5"
+            }
+        ]
+    },
+    {
+        "name": "Led Zeppelin",
+        "image": "led_zeppelin_band.jpg",
+        "genre": "Rock",
+        "biography": "Led Zeppelin, formed in 1968, is a legendary rock band known for their innovative and influential music. The band consists of Robert Plant, Jimmy Page, John Paul Jones, and John Bonham.",
+        "numPlays": 343242,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4502",
+        "albums": [
+            {
+                "name": "IV",
+                "image": "led_zeppelin_iv_album_cover.jpg",
+                "releasedDate": "1971-11-08",
+                "band": "Led Zeppelin",
+                "tracks": [
+                    {
+                        "name": "Stairway to Heaven",
+                        "duration": 482,
+                        "id": "6a3a4e7e-8a4b-4b4b-ae4e-2bdf3c8c51c0"
+                    },
+                    {
+                        "name": "Black Dog",
+                        "duration": 294,
+                        "id": "2a20c934-09c8-4d8a-92be-903ee34a831b"
+                    },
+                    {
+                        "name": "Rock and Roll",
+                        "duration": 220,
+                        "id": "2ec69062-1b96-4f1f-a812-10e7b22c87b7"
+                    }
+                ],
+                "id": "d15c09e9-09fe-4b4a-808a-679c5e424cb3"
+            },
+            {
+                "name": "Physical Graffiti",
+                "image": "physical_graffiti_album_cover.jpg",
+                "releasedDate": "1975-02-24",
+                "band": "Led Zeppelin",
+                "tracks": [
+                    {
+                        "name": "Kashmir",
+                        "duration": 535,
+                        "id": "a3e187df-9e9b-4b67-9324-2055c96af3ff"
+                    },
+                    {
+                        "name": "Trampled Under Foot",
+                        "duration": 370,
+                        "id": "2e64c9f8-5424-4e67-af06-1462a51b48e6"
+                    },
+                    {
+                        "name": "In My Time of Dying",
+                        "duration": 663,
+                        "id": "e6e97f68-4ea9-4f3c-8693-d09568677a05"
+                    }
+                ],
+                "id": "8f90c460-b2ec-4c1b-94b5-c1535f4d0415"
+            }
+        ]
+    },
+    {
+        "name": "The Rolling Stones",
+        "image": "rolling_stones_band.jpg",
+        "genre": "Rock",
+        "biography": "The Rolling Stones, formed in 1962, are a legendary rock band that has played a significant role in shaping the history of rock and roll. The band members include Mick Jagger, Keith Richards, Charlie Watts, and Ronnie Wood.",
+        "numPlays": 634543,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4503",
+        "albums": [
+            {
+                "name": "Sticky Fingers",
+                "image": "sticky_fingers_album_cover.jpg",
+                "releasedDate": "1971-04-23",
+                "band": "The Rolling Stones",
+                "tracks": [
+                    {
+                        "name": "Brown Sugar",
+                        "duration": 212,
+                        "id": "3e2d5873-1c19-4657-80de-3e4f8eb0c735"
+                    },
+                    {
+                        "name": "Wild Horses",
+                        "duration": 344,
+                        "id": "ed35e91a-2baa-40f3-92f3-258535214dbe"
+                    },
+                    {
+                        "name": "Can't You Hear Me Knocking",
+                        "duration": 427,
+                        "id": "aa0b9826-83a8-4dd2-b45f-5c08a6b96515"
+                    }
+                ],
+                "id": "dd2076cd-1448-4b1a-803c-2a60f62841a9"
+            },
+            {
+                "name": "Let It Bleed",
+                "image": "let_it_bleed_album_cover.jpg",
+                "releasedDate": "1969-12-05",
+                "band": "The Rolling Stones",
+                "tracks": [
+                    {
+                        "name": "Gimme Shelter",
+                        "duration": 270,
+                        "id": "a55d6aa2-87db-4f21-aa0b-6e5a47f7b5aa"
+                    },
+                    {
+                        "name": "You Can't Always Get What You Want",
+                        "duration": 467,
+                        "id": "2d50b96a-6259-45c2-90a1-c09be8a04d86"
+                    },
+                    {
+                        "name": "Midnight Rambler",
+                        "duration": 432,
+                        "id": "d313cc3e-88b1-4d8a-b6db-1a1d8a93e31a"
+                    }
+                ],
+                "id": "bfc89d92-9723-4bd3-8ec6-61179b9c1df9"
+            }
+        ]
+    },
+    {
+        "name": "Pink Floyd",
+        "image": "pink_floyd_band.jpg",
+        "genre": "Rock",
+        "biography": "Pink Floyd, formed in 1965, is an iconic rock band known for their progressive and psychedelic music. The band members include Syd Barrett, Roger Waters, Richard Wright, Nick Mason, and David Gilmour.",
+        "numPlays": 543531,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4504",
+        "albums": [
+            {
+                "name": "The Dark Side of the Moon",
+                "image": "dark_side_of_the_moon_album_cover.jpg",
+                "releasedDate": "1973-03-01",
+                "band": "Pink Floyd",
+                "tracks": [
+                    {
+                        "name": "Speak to Me",
+                        "duration": 90,
+                        "id": "8a24cb8e-69f4-4b1e-b293-35654cfc5aa9"
+                    },
+                    {
+                        "name": "Breathe",
+                        "duration": 166,
+                        "id": "d6b1229d-0a5d-48a9-a9f0-0211f2a4e5ea"
+                    },
+                    {
+                        "name": "Time",
+                        "duration": 421,
+                        "id": "ac92d1c8-eef9-43a0-bf8b-8615efb5a14b"
+                    }
+                ],
+                "id": "c1d1620f-6ba4-4d76-84a7-8963fc3cfc2b"
+            },
+            {
+                "name": "Wish You Were Here",
+                "image": "wish_you_were_here_album_cover.jpg",
+                "releasedDate": "1975-09-12",
+                "band": "Pink Floyd",
+                "tracks": [
+                    {
+                        "name": "Shine On You Crazy Diamond",
+                        "duration": 810,
+                        "id": "65b96c0e-858d-4214-a1b9-9f5c6b3f6b52"
+                    },
+                    {
+                        "name": "Wish You Were Here",
+                        "duration": 335,
+                        "id": "d16322da-14f4-472a-9e41-08e0f92f4429"
+                    },
+                    {
+                        "name": "Welcome to the Machine",
+                        "duration": 445,
+                        "id": "b458700e-116f-430e-aabe-f91d0e8df3bb"
+                    }
+                ],
+                "id": "d78765f0-3e8b-4d99-906f-2d09e0129620"
+            }
+        ]
+    },
+    {
+        "name": "Queen",
+        "image": "queen_band.jpg",
+        "genre": "Rock",
+        "biography": "Queen, formed in 1970, is a legendary rock band known for their diverse musical style and the powerful vocals of Freddie Mercury. The band members include Freddie Mercury, Brian May, Roger Taylor, and John Deacon.",
+        "numPlays": 27457,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4505",
+        "albums": [
+            {
+                "name": "A Night at the Opera",
+                "image": "night_at_the_opera_album_cover.jpg",
+                "releasedDate": "1975-11-21",
+                "band": "Queen",
+                "tracks": [
+                    {
+                        "name": "Bohemian Rhapsody",
+                        "duration": 354,
+                        "id": "c98e8049-0d75-4857-9d8e-f6352d0b7e2c"
+                    },
+                    {
+                        "name": "You're My Best Friend",
+                        "duration": 180,
+                        "id": "87666661-ec7c-42e0-a4d1-3660b067a5b4"
+                    },
+                    {
+                        "name": "Love of My Life",
+                        "duration": 210,
+                        "id": "be4b6ba0-d980-4ad2-ae0b-999f9a8bf0ef"
+                    }
+                ],
+                "id": "c9163444-80b0-4f38-9ee9-00bea796fe7c"
+            },
+            {
+                "name": "The Game",
+                "image": "the_game_album_cover.jpg",
+                "releasedDate": "1980-06-30",
+                "band": "Queen",
+                "tracks": [
+                    {
+                        "name": "Another One Bites the Dust",
+                        "duration": 216,
+                        "id": "ddc0b7b4-9cb4-4e2d-8a68-b9dbd7fcaeb4"
+                    },
+                    {
+                        "name": "Crazy Little Thing Called Love",
+                        "duration": 163,
+                        "id": "ee7a2289-789c-4b87-9a29-3b136c0c1ef2"
+                    },
+                    {
+                        "name": "Play the Game",
+                        "duration": 217,
+                        "id": "34ed1441-f21b-4f61-8d28-c6112dfc1e49"
+                    }
+                ],
+                "id": "9f8a1e92-3762-42d8-9010-37b1c7c6d187"
+            }
+        ]
+    },
+    {
+        "name": "The Who",
+        "image": "who_band.jpg",
+        "genre": "Rock",
+        "biography": "The Who, formed in 1964, is a pioneering rock band known for their energetic performances and innovative contributions to rock music. The band members include Roger Daltrey, Pete Townshend, John Entwistle, and Keith Moon.",
+        "numPlays": 742572,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4506",
+        "albums": [
+            {
+                "name": "Who's Next",
+                "image": "whos_next_album_cover.jpg",
+                "releasedDate": "1971-08-14",
+                "band": "The Who",
+                "tracks": [
+                    {
+                        "name": "Baba O'Riley",
+                        "duration": 309,
+                        "id": "59ef507f-3e06-42aa-95f8-2f130e2e8943"
+                    },
+                    {
+                        "name": "Behind Blue Eyes",
+                        "duration": 225,
+                        "id": "f9f0accd-df43-42e3-8dab-49e8338dce47"
+                    },
+                    {
+                        "name": "Won't Get Fooled Again",
+                        "duration": 510,
+                        "id": "dfb001c7-9d79-4777-9949-82a356f0b8c4"
+                    }
+                ],
+                "id": "f9c1a3a2-1b07-4ac7-850a-d7e9dd9f686b"
+            },
+            {
+                "name": "Tommy",
+                "image": "tommy_album_cover.jpg",
+                "releasedDate": "1969-05-23",
+                "band": "The Who",
+                "tracks": [
+                    {
+                        "name": "Pinball Wizard",
+                        "duration": 181,
+                        "id": "f23224ea-3d63-49a5-95d0-e3e743fe438a"
+                    },
+                    {
+                        "name": "I'm Free",
+                        "duration": 167,
+                        "id": "6e779bf4-ef5c-44f8-9ac5-1f25c457b878"
+                    },
+                    {
+                        "name": "See Me, Feel Me",
+                        "duration": 288,
+                        "id": "b588994e-9efb-4a22-83f8-122fc75c1a7d"
+                    }
+                ],
+                "id": "9a365c1c-8c2b-47f7-8c67-29f9810b42dd"
+            }
+        ]
+    },
+    {
+        "name": "U2",
+        "image": "u2_band.jpg",
+        "genre": "Rock",
+        "biography": "U2, formed in 1976 in Dublin, Ireland, is a rock band known for their anthemic sound and socially conscious lyrics. The band consists of Bono, The Edge, Adam Clayton, and Larry Mullen Jr.",
+        "numPlays": 25742,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4507",
+        "albums": [
+            {
+                "name": "The Joshua Tree",
+                "image": "joshua_tree_album_cover.jpg",
+                "releasedDate": "1987-03-09",
+                "band": "U2",
+                "tracks": [
+                    {
+                        "name": "Where the Streets Have No Name",
+                        "duration": 337,
+                        "id": "f08aa2f9-420c-4b8b-8f10-01790d8f9d6e"
+                    },
+                    {
+                        "name": "With or Without You",
+                        "duration": 296,
+                        "id": "628f0b3a-b394-46ed-a71c-1df7be1f5ac3"
+                    },
+                    {
+                        "name": "I Still Haven't Found What I'm Looking For",
+                        "duration": 274,
+                        "id": "9424a9a2-01c9-4b2b-8d29-8d1836c2b29f"
+                    }
+                ],
+                "id": "c1f93da0-9f34-4de4-8d63-693dd22c2f3f"
+            },
+            {
+                "name": "Achtung Baby",
+                "image": "achtung_baby_album_cover.jpg",
+                "releasedDate": "1991-11-18",
+                "band": "U2",
+                "tracks": [
+                    {
+                        "name": "One",
+                        "duration": 275,
+                        "id": "9a57f08e-3992-4a36-a292-2ac6ff7e32e5"
+                    },
+                    {
+                        "name": "Mysterious Ways",
+                        "duration": 278,
+                        "id": "3af5c7c3-19cb-4ec0-baa3-6d72a079c9d2"
+                    },
+                    {
+                        "name": "Even Better Than the Real Thing",
+                        "duration": 226,
+                        "id": "d0b0b848-cc75-46a5-b9c3-6c5477a8ff2f"
+                    }
+                ],
+                "id": "a4f67b32-4d32-4d01-8baa-7477798f8cfb"
+            }
+        ]
+    },
+    {
+        "name": "Nirvana",
+        "image": "nirvana_band.jpg",
+        "genre": "Grunge",
+        "biography": "Nirvana, formed in 1987, was a pivotal grunge band that gained massive success in the early 1990s. The band consisted of Kurt Cobain, Krist Novoselic, and Dave Grohl.",
+        "numPlays": 53272,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4508",
+        "albums": [
+            {
+                "name": "Nevermind",
+                "image": "nevermind_album_cover.jpg",
+                "releasedDate": "1991-09-24",
+                "band": "Nirvana",
+                "tracks": [
+                    {
+                        "name": "Smells Like Teen Spirit",
+                        "duration": 302,
+                        "id": "8a808dc0-7738-4e15-8a5b-3421c62e9b21"
+                    },
+                    {
+                        "name": "Come as You Are",
+                        "duration": 219,
+                        "id": "ab3d05cf-31b2-41ed-8f6b-8ff28d0b3151"
+                    },
+                    {
+                        "name": "Lithium",
+                        "duration": 257,
+                        "id": "4a83615e-321c-4e7f-84f7-083c73f9c67b"
+                    }
+                ],
+                "id": "06292c84-8e93-4f9e-bba0-3bfeaf20f45a"
+            },
+            {
+                "name": "In Utero",
+                "image": "in_utero_album_cover.jpg",
+                "releasedDate": "1993-09-13",
+                "band": "Nirvana",
+                "tracks": [
+                    {
+                        "name": "Heart-Shaped Box",
+                        "duration": 266,
+                        "id": "5e39f936-0e9b-482b-8a9c-06b8d9d17b2a"
+                    },
+                    {
+                        "name": "Rape Me",
+                        "duration": 163,
+                        "id": "d5aae6d9-65d4-4fb5-b5b5-47d76e2453c3"
+                    },
+                    {
+                        "name": "All Apologies",
+                        "duration": 231,
+                        "id": "8329243d-ba5b-4cc2-868e-c887cda5dd42"
+                    }
+                ],
+                "id": "7bb7d4a9-9b67-4782-9ad6-e6e2e7878c3a"
+            }
+        ]
+    },
+    {
+        "name": "The Eagles",
+        "image": "eagles_band.jpg",
+        "genre": "Rock",
+        "biography": "The Eagles, formed in 1971, are an iconic rock band known for their harmonious sound and numerous chart-topping hits. The band members include Glenn Frey, Don Henley, Joe Walsh, and Timothy B. Schmit.",
+        "numPlays": 75443,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4509",
+        "albums": [
+            {
+                "name": "Hotel California",
+                "image": "hotel_california_album_cover.jpg",
+                "releasedDate": "1976-12-08",
+                "band": "The Eagles",
+                "tracks": [
+                    {
+                        "name": "Hotel California",
+                        "duration": 390,
+                        "id": "be8246f7-fc3b-4df6-a204-683a3b100dc8"
+                    },
+                    {
+                        "name": "New Kid in Town",
+                        "duration": 326,
+                        "id": "335f4b74-d68c-4e36-87fe-2a05954fb090"
+                    },
+                    {
+                        "name": "Life in the Fast Lane",
+                        "duration": 281,
+                        "id": "d6d56cd5-f4cc-448a-852b-5b1c1995719c"
+                    }
+                ],
+                "id": "d90c258a-83ec-48c1-96a1-972bb448fb3c"
+            },
+            {
+                "name": "Their Greatest Hits (1971–1975)",
+                "image": "eagles_greatest_hits_album_cover.jpg",
+                "releasedDate": "1976-02-17",
+                "band": "The Eagles",
+                "tracks": [
+                    {
+                        "name": "Take It Easy",
+                        "duration": 188,
+                        "id": "d33b8d71-b048-4d4f-879e-80b1edc4a51b"
+                    },
+                    {
+                        "name": "Desperado",
+                        "duration": 187,
+                        "id": "4e1f9b91-1953-4e2b-b71e-f33e6d54f19a"
+                    },
+                    {
+                        "name": "One of These Nights",
+                        "duration": 263,
+                        "id": "5c42302f-3d0f-4660-97d8-66e958d69e4e"
+                    }
+                ],
+                "id": "2d839e5a-b36a-41d7-8ed9-1a993bdacf3e"
+            }
+        ]
+    },
+    {
+        "name": "AC/DC",
+        "image": "acdc_band.jpg",
+        "genre": "Rock",
+        "biography": "AC/DC, formed in 1973, is an iconic rock band known for their electrifying performances and timeless hard rock music. The band members include Angus Young, Malcolm Young, Brian Johnson, Cliff Williams, and Phil Rudd.",
+        "numPlays": 75435,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4510",
+        "albums": [
+            {
+                "name": "Back in Black",
+                "image": "back_in_black_album_cover.jpg",
+                "releasedDate": "1980-07-25",
+                "band": "AC/DC",
+                "tracks": [
+                    {
+                        "name": "Hells Bells",
+                        "duration": 312,
+                        "id": "0a982e0b-1301-4ed7-ba88-9f26bb9b5d42"
+                    },
+                    {
+                        "name": "Back in Black",
+                        "duration": 255,
+                        "id": "bbd35f07-9d8c-4153-a9fb-e1f0562858d1"
+                    },
+                    {
+                        "name": "You Shook Me All Night Long",
+                        "duration": 210,
+                        "id": "a3ac9d24-fb72-41c1-93c5-30cf1f1ff675"
+                    }
+                ],
+                "id": "3e800f96-6321-49c3-980b-31a11e820a7e"
+            },
+            {
+                "name": "High Voltage",
+                "image": "high_voltage_album_cover.jpg",
+                "releasedDate": "1976-02-17",
+                "band": "AC/DC",
+                "tracks": [
+                    {
+                        "name": "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+                        "duration": 309,
+                        "id": "a87817cc-4a45-4ab8-8c7b-86c7d64523b2"
+                    },
+                    {
+                        "name": "T.N.T.",
+                        "duration": 203,
+                        "id": "2b2b7d07-21c2-4f91-9331-eb29f145d4ad"
+                    },
+                    {
+                        "name": "High Voltage",
+                        "duration": 254,
+                        "id": "c3a47e4b-c88a-4e3a-9a16-d59498b0f1b7"
+                    }
+                ],
+                "id": "8e08631f-f21e-4ab3-b0d8-c4c77fe9c6d4"
+            }
+        ]
+    },
+    {
+        "name": "Guns N' Roses",
+        "image": "guns_n_roses_band.jpg",
+        "genre": "Rock",
+        "biography": "Guns N' Roses, formed in 1985, is a rock band known for their hard-hitting sound and rebellious attitude. The band members include Axl Rose, Slash, Duff McKagan, Izzy Stradlin, and Steven Adler.",
+        "numPlays": 856856,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4610",
+        "albums": [
+            {
+                "name": "Appetite for Destruction",
+                "image": "appetite_for_destruction_album_cover.jpg",
+                "releasedDate": "1987-07-21",
+                "band": "Guns N' Roses",
+                "tracks": [
+                    {
+                        "name": "Sweet Child o' Mine",
+                        "duration": 356,
+                        "id": "63d32f8f-2c20-432c-b63a-879dc1b08f22"
+                    },
+                    {
+                        "name": "Welcome to the Jungle",
+                        "duration": 275,
+                        "id": "93dafe07-bb9c-4718-9364-5c52bb4e92b9"
+                    },
+                    {
+                        "name": "Paradise City",
+                        "duration": 406,
+                        "id": "cd303e12-8d89-42f5-942c-9a9636eb3fb6"
+                    }
+                ],
+                "id": "f5fe671f-ff9d-4a18-bfeb-c0621d6ebd21"
+            },
+            {
+                "name": "Use Your Illusion I",
+                "image": "use_your_illusion_i_album_cover.jpg",
+                "releasedDate": "1991-09-17",
+                "band": "Guns N' Roses",
+                "tracks": [
+                    {
+                        "name": "November Rain",
+                        "duration": 537,
+                        "id": "a2c5c1a5-f57b-45e4-8057-741764cc27bd"
+                    },
+                    {
+                        "name": "Don't Cry",
+                        "duration": 288,
+                        "id": "731c1e8d-01dd-44d9-9bf1-0d43b37f1ab4"
+                    },
+                    {
+                        "name": "Live and Let Die",
+                        "duration": 183,
+                        "id": "7e7ed5c4-9714-41f9-a62d-ea7d82e97d08"
+                    }
+                ],
+                "id": "82fcba54-1664-4b43-aa10-b50ce03c2270"
+            }
+        ]
+    },
+    {
+        "name": "Metallica",
+        "image": "metallica_band.jpg",
+        "genre": "Metal",
+        "biography": "Metallica, formed in 1981, is a pioneering metal band known for their aggressive sound and powerful performances. The band members include James Hetfield, Lars Ulrich, Kirk Hammett, and Robert Trujillo.",
+        "numPlays": 2345,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4511",
+        "albums": [
+            {
+                "name": "Master of Puppets",
+                "image": "master_of_puppets_album_cover.jpg",
+                "releasedDate": "1986-03-03",
+                "band": "Metallica",
+                "tracks": [
+                    {
+                        "name": "Battery",
+                        "duration": 320,
+                        "id": "fc3b706a-6756-4c44-a50c-7ce35d4f4e6d"
+                    },
+                    {
+                        "name": "Master of Puppets",
+                        "duration": 516,
+                        "id": "1a1ed155-00e7-4a60-8089-4f220f676531"
+                    },
+                    {
+                        "name": "Welcome Home (Sanitarium)",
+                        "duration": 387,
+                        "id": "0ff590f2-2007-4047-8344-9ea7905ce49d"
+                    }
+                ],
+                "id": "60e60a95-f6b8-4a0a-881e-8a9e4805bf6c"
+            },
+            {
+                "name": "Metallica (The Black Album)",
+                "image": "metallica_black_album_cover.jpg",
+                "releasedDate": "1991-08-12",
+                "band": "Metallica",
+                "tracks": [
+                    {
+                        "name": "Enter Sandman",
+                        "duration": 332,
+                        "id": "6fcb680d-131c-415d-9f0d-23656ccba0be"
+                    },
+                    {
+                        "name": "Nothing Else Matters",
+                        "duration": 388,
+                        "id": "18753d2a-2c48-4edc-bb5c-822b2d1c1d48"
+                    },
+                    {
+                        "name": "The Unforgiven",
+                        "duration": 387,
+                        "id": "2d25a4c3-5e11-4cc5-bf8d-0a88398da65c"
+                    }
+                ],
+                "id": "f284f542-bd47-4ac4-94d1-33fcda9d3f6d"
+            }
+        ]
+    },
+    {
+        "name": "Bon Jovi",
+        "image": "bon_jovi_band.jpg",
+        "genre": "Rock",
+        "biography": "Bon Jovi, formed in 1983, is a rock band known for their anthemic songs and charismatic frontman, Jon Bon Jovi. The band members include Jon Bon Jovi, Richie Sambora, David Bryan, and Tico Torres.",
+        "numPlays": 0,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4512",
+        "albums": [
+            {
+                "name": "Slippery When Wet",
+                "image": "slippery_when_wet_album_cover.jpg",
+                "releasedDate": "1986-08-18",
+                "band": "Bon Jovi",
+                "tracks": [
+                    {
+                        "name": "Livin' on a Prayer",
+                        "duration": 248,
+                        "id": "7e16df8e-3ae5-4ee7-a28a-68b4a77651e5"
+                    },
+                    {
+                        "name": "You Give Love a Bad Name",
+                        "duration": 209,
+                        "id": "bd1999ed-31a7-477d-9a91-0bc0b62dc6e2"
+                    },
+                    {
+                        "name": "Wanted Dead or Alive",
+                        "duration": 328,
+                        "id": "b9f0860a-63c3-4c71-a1a5-f1942e94f142"
+                    }
+                ],
+                "id": "3206b72c-1797-4522-b404-02ec6b90c8b6"
+            },
+            {
+                "name": "New Jersey",
+                "image": "new_jersey_album_cover.jpg",
+                "releasedDate": "1988-09-13",
+                "band": "Bon Jovi",
+                "tracks": [
+                    {
+                        "name": "Bad Medicine",
+                        "duration": 321,
+                        "id": "bd8a6db4-0b26-4aa6-8c13-c115e8f4f96a"
+                    },
+                    {
+                        "name": "Lay Your Hands on Me",
+                        "duration": 239,
+                        "id": "08048932-f95f-43d1-a0c1-4706a35e6ff3"
+                    },
+                    {
+                        "name": "I'll Be There for You",
+                        "duration": 352,
+                        "id": "4539d4b7-d0fb-4cb8-b586-3340d5638e05"
+                    }
+                ],
+                "id": "d4e6d236-b7a5-4f5a-86ec-fa53eeed15c0"
+            }
+        ]
+    },
+    {
+        "name": "The Pretenders",
+        "image": "pretenders_band.jpg",
+        "genre": "Rock",
+        "biography": "The Pretenders, formed in 1978, are a rock band led by the charismatic Chrissie Hynde. Known for their blend of rock and new wave, the band has undergone various lineup changes over the years.",
+        "numPlays": 67231,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4513",
+        "albums": [
+            {
+                "name": "Pretenders",
+                "image": "pretenders_album_cover.jpg",
+                "releasedDate": "1980-01-19",
+                "band": "The Pretenders",
+                "tracks": [
+                    {
+                        "name": "Brass in Pocket",
+                        "duration": 199,
+                        "id": "585ca7f4-b3df-45e1-984a-01568e3950fc"
+                    },
+                    {
+                        "name": "Kid",
+                        "duration": 230,
+                        "id": "42ecf3f0-df82-4bf7-99aa-6c62e4b08a03"
+                    },
+                    {
+                        "name": "Stop Your Sobbing",
+                        "duration": 143,
+                        "id": "92da1f72-354a-42f3-b84a-62b7191f534c"
+                    }
+                ],
+                "id": "e69cf4dd-66f7-43c7-82ac-6d0b717e971f"
+            },
+            {
+                "name": "Learning to Crawl",
+                "image": "learning_to_crawl_album_cover.jpg",
+                "releasedDate": "1984-01-11",
+                "band": "The Pretenders",
+                "tracks": [
+                    {
+                        "name": "Back on the Chain Gang",
+                        "duration": 229,
+                        "id": "f0b731b2-46c1-4c38-875b-32f5bf64c6e2"
+                    },
+                    {
+                        "name": "Middle of the Road",
+                        "duration": 240,
+                        "id": "4ec7d1dd-1544-4b3b-9df6-faf3033b2ba0"
+                    },
+                    {
+                        "name": "Show Me",
+                        "duration": 244,
+                        "id": "2e8e96d4-6724-41b2-8481-cde74f26c482"
+                    }
+                ],
+                "id": "637f08e7-77b1-4cf2-98de-0c1f5d13c6cf"
+            }
+        ]
+    },
+    {
+        "name": "The Breeders",
+        "image": "breeders_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "The Breeders, formed in 1989, are an alternative rock band known for their unique sound and experimental approach. Led by Kim Deal, the band has produced influential and acclaimed music over the years.",
+        "numPlays": 76534,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4514",
+        "albums": [
+            {
+                "name": "Last Splash",
+                "image": "last_splash_album_cover.jpg",
+                "releasedDate": "1993-08-31",
+                "band": "The Breeders",
+                "tracks": [
+                    {
+                        "name": "Cannonball",
+                        "duration": 236,
+                        "id": "10c2bf49-3ad4-43c4-a02b-135056398dc9"
+                    },
+                    {
+                        "name": "Divine Hammer",
+                        "duration": 183,
+                        "id": "2a12d8b3-2ef4-42b0-a08f-3178ab1a96d2"
+                    },
+                    {
+                        "name": "Saints",
+                        "duration": 156,
+                        "id": "fd4a5b67-9f1e-404e-b1d7-0e3ac07993d6"
+                    }
+                ],
+                "id": "ee345d26-bd8a-4f08-bc5a-7788e22717d7"
+            },
+            {
+                "name": "Pod",
+                "image": "pod_album_cover.jpg",
+                "releasedDate": "1990-05-29",
+                "band": "The Breeders",
+                "tracks": [
+                    {
+                        "name": "Glorious",
+                        "duration": 172,
+                        "id": "7c86851c-c284-4e7a-89ef-1f20a4a64a38"
+                    },
+                    {
+                        "name": "Doe",
+                        "duration": 191,
+                        "id": "9b214848-69ec-4a5e-bbc6-26ff6859ef44"
+                    },
+                    {
+                        "name": "Hellbound",
+                        "duration": 141,
+                        "id": "94a0942c-c706-4c6a-90f7-66b8b80e3312"
+                    }
+                ],
+                "id": "0ea4bc84-04d7-4c67-b20c-81a6f2b8ea63"
+            }
+        ]
+    },
+    {
+        "name": "The Bangles",
+        "image": "bangles_band.jpg",
+        "genre": "Pop Rock",
+        "biography": "The Bangles, formed in 1981, are a pop rock band known for their catchy tunes and harmonies. The band achieved significant success in the 1980s and is best known for hits like \"Walk Like an Egyptian\" and \"Eternal Flame.\"",
+        "numPlays": 21312,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4515",
+        "albums": [
+            {
+                "name": "Different Light",
+                "image": "different_light_album_cover.jpg",
+                "releasedDate": "1985-01-01",
+                "band": "The Bangles",
+                "tracks": [
+                    {
+                        "name": "Manic Monday",
+                        "duration": 194,
+                        "id": "a0af1e50-69cf-4bf8-9f88-570d7fe0d369"
+                    },
+                    {
+                        "name": "Walk Like an Egyptian",
+                        "duration": 201,
+                        "id": "21d71b34-45c4-4f10-8e5f-7a64cfe923c5"
+                    },
+                    {
+                        "name": "If She Knew What She Wants",
+                        "duration": 232,
+                        "id": "5ae3987d-997d-4ebe-8b3b-c424c9c78d63"
+                    }
+                ],
+                "id": "5c55215c-df64-4da2-849e-b905b1ea6c97"
+            },
+            {
+                "name": "All Over the Place",
+                "image": "all_over_the_place_album_cover.jpg",
+                "releasedDate": "1984-05-23",
+                "band": "The Bangles",
+                "tracks": [
+                    {
+                        "name": "Hero Takes a Fall",
+                        "duration": 160,
+                        "id": "2e19caec-6fcd-4d2b-9d7a-0b2c870b9ad6"
+                    },
+                    {
+                        "name": "Going Down to Liverpool",
+                        "duration": 192,
+                        "id": "f89eb8fe-2765-4a38-b5b2-0c8f9b6b1b06"
+                    },
+                    {
+                        "name": "James",
+                        "duration": 162,
+                        "id": "fc9420ac-6d13-4b2e-bcc4-b489fbb3a635"
+                    }
+                ],
+                "id": "702cc146-b1d7-4e34-9d8c-2e0a0e238dbc"
+            }
+        ]
+    },
+    {
+        "name": "The B-52's",
+        "image": "b52s_band.jpg",
+        "genre": "New Wave",
+        "biography": "The B-52's, formed in 1976, are a new wave band known for their quirky style and danceable tunes. With hits like \"Love Shack\" and \"Rock Lobster,\" the band has left a lasting impact on the new wave and alternative music scene.",
+        "numPlays": 98753,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4516",
+        "albums": [
+            {
+                "name": "The B-52's",
+                "image": "b52s_album_cover.jpg",
+                "releasedDate": "1979-07-06",
+                "band": "The B-52's",
+                "tracks": [
+                    {
+                        "name": "Rock Lobster",
+                        "duration": 392,
+                        "id": "a84c6f90-7481-4e72-8ff3-133396262c0e"
+                    },
+                    {
+                        "name": "Planet Claire",
+                        "duration": 255,
+                        "id": "430dce11-2f3d-4e1c-93d6-1aaebec5db58"
+                    },
+                    {
+                        "name": "Dance This Mess Around",
+                        "duration": 240,
+                        "id": "1d07dce2-691f-4b37-82d4-81eabea1f3e4"
+                    }
+                ],
+                "id": "9f01a4f4-305b-4f68-9c89-124d1eb98fb7"
+            },
+            {
+                "name": "Cosmic Thing",
+                "image": "cosmic_thing_album_cover.jpg",
+                "releasedDate": "1989-06-27",
+                "band": "The B-52's",
+                "tracks": [
+                    {
+                        "name": "Love Shack",
+                        "duration": 345,
+                        "id": "cb8f28f0-c6cb-49d7-8172-40a8851f9cf9"
+                    },
+                    {
+                        "name": "Roam",
+                        "duration": 298,
+                        "id": "fc0c6d4a-1a7b-4183-bab3-9cc87752aabe"
+                    },
+                    {
+                        "name": "Deadbeat Club",
+                        "duration": 322,
+                        "id": "4f95752c-2ba2-4bbf-8595-7a398c4d20ef"
+                    }
+                ],
+                "id": "d0e4e956-afd2-44fc-8fe3-8b88c2141731"
+            }
+        ]
+    },
+    {
+        "name": "The Runaways",
+        "image": "runaways_band.jpg",
+        "genre": "Rock",
+        "biography": "The Runaways, formed in 1975, were a pioneering all-female rock band that played a significant role in the development of punk and hard rock. The original lineup included Joan Jett, Cherie Currie, Lita Ford, Sandy West, and Jackie Fox.",
+        "numPlays": 86434,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4517",
+        "albums": [
+            {
+                "name": "The Runaways",
+                "image": "runaways_album_cover.jpg",
+                "releasedDate": "1976-06-01",
+                "band": "The Runaways",
+                "tracks": [
+                    {
+                        "name": "Cherry Bomb",
+                        "duration": 132,
+                        "id": "3a7cfe65-36f0-4a7b-9a9b-35601a54d2ad"
+                    },
+                    {
+                        "name": "Queens of Noise",
+                        "duration": 206,
+                        "id": "a8329ee2-4d21-4319-b80c-165b8231f540"
+                    },
+                    {
+                        "name": "Rock and Roll",
+                        "duration": 209,
+                        "id": "7350c9bb-0060-4bb6-a69c-7ac5a1192ea2"
+                    }
+                ],
+                "id": "b4c8edc4-78e3-4bb3-8149-935e6a51b439"
+            },
+            {
+                "name": "Queens of Noise",
+                "image": "queens_of_noise_album_cover.jpg",
+                "releasedDate": "1977-01-23",
+                "band": "The Runaways",
+                "tracks": [
+                    {
+                        "name": "California Paradise",
+                        "duration": 182,
+                        "id": "f8ef3cc2-bf39-4f18-8a62-bc0bd3d1b1ad"
+                    },
+                    {
+                        "name": "Heartbeat",
+                        "duration": 183,
+                        "id": "0c002351-70fe-4a4d-a8f0-ffa0e1f0104d"
+                    },
+                    {
+                        "name": "Johnny Guitar",
+                        "duration": 196,
+                        "id": "94bf1f7b-711d-4f2f-b2e5-7d5fc38b3cb6"
+                    }
+                ],
+                "id": "8f729e1e-34fa-4c0a-89d4-c6ca54e0450b"
+            }
+        ]
+    },
+    {
+        "name": "The Donnas",
+        "image": "donnas_band.jpg",
+        "genre": "Rock",
+        "biography": "The Donnas, formed in 1993, are an all-female rock band known for their high-energy performances and straightforward rock sound. The band members include Brett Anderson, Allison Robertson, Maya Ford, and Amy Cesari.",
+        "numPlays": 86642,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4518",
+        "albums": [
+            {
+                "name": "Spend the Night",
+                "image": "spend_the_night_album_cover.jpg",
+                "releasedDate": "2002-10-22",
+                "band": "The Donnas",
+                "tracks": [
+                    {
+                        "name": "Take It Off",
+                        "duration": 193,
+                        "id": "2b171ddb-f39c-4a57-bd98-38c651cb1940"
+                    },
+                    {
+                        "name": "Who Invited You",
+                        "duration": 150,
+                        "id": "7b51e727-14e2-468c-bcd3-8a2c3ab82e08"
+                    },
+                    {
+                        "name": "Fall Behind Me",
+                        "duration": 196,
+                        "id": "b1b0db74-71d8-485b-8567-bb4d2443e4d6"
+                    }
+                ],
+                "id": "65053dd5-9d77-46c4-8d1d-76e8db6cf89d"
+            },
+            {
+                "name": "The Donnas Turn 21",
+                "image": "donnas_turn_21_album_cover.jpg",
+                "releasedDate": "2001-01-22",
+                "band": "The Donnas",
+                "tracks": [
+                    {
+                        "name": "Do You Wanna Hit It?",
+                        "duration": 114,
+                        "id": "bf6623c2-057a-47db-b0b7-7d7985100b43"
+                    },
+                    {
+                        "name": "40 Boys in 40 Nights",
+                        "duration": 129,
+                        "id": "8e467f88-6b7c-4e2b-939a-5ef7cf5798d0"
+                    },
+                    {
+                        "name": "Midnight Snack",
+                        "duration": 118,
+                        "id": "3fe7a355-d26f-457d-a6d3-abe5c2b98194"
+                    }
+                ],
+                "id": "1ac329fd-25fd-4e0f-93b7-d9d27a0f963c"
+            }
+        ]
+    },
+    {
+        "name": "The Arctic Monkeys",
+        "image": "arctic_monkeys_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "The Arctic Monkeys, formed in 2002, are an indie rock band hailing from Sheffield, England. Known for their energetic performances and witty lyrics, the band quickly rose to prominence with their debut album 'Whatever People Say I Am, That's What I'm Not.'",
+        "numPlays": 867643,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4519",
+        "albums": [
+            {
+                "name": "Whatever People Say I Am, That's What I'm Not",
+                "image": "arctic_monkeys_album1_cover.jpg",
+                "releasedDate": "2006-01-23",
+                "band": "The Arctic Monkeys",
+                "tracks": [
+                    {
+                        "name": "I Bet You Look Good On The Dancefloor",
+                        "duration": 172,
+                        "id": "e900c42d-aa9d-4b9b-92b5-cd1e5c31bfc8"
+                    },
+                    {
+                        "name": "Fake Tales of San Francisco",
+                        "duration": 178,
+                        "id": "eb319b69-53e9-4854-8162-1d59f3a812c5"
+                    },
+                    {
+                        "name": "Dancing Shoes",
+                        "duration": 129,
+                        "id": "b1572ad5-c74e-4ab4-834f-5b850ea4422d"
+                    }
+                ],
+                "id": "33c55a5d-70db-4c4f-9f37-cc1ee6bcacef"
+            },
+            {
+                "name": "AM",
+                "image": "arctic_monkeys_album2_cover.jpg",
+                "releasedDate": "2013-09-09",
+                "band": "The Arctic Monkeys",
+                "tracks": [
+                    {
+                        "name": "Do I Wanna Know?",
+                        "duration": 272,
+                        "id": "3eecc3d9-c9a2-4a1a-9a8c-b114a464a801"
+                    },
+                    {
+                        "name": "R U Mine?",
+                        "duration": 211,
+                        "id": "79aa1819-f356-4de3-b685-28f9c99a36b6"
+                    },
+                    {
+                        "name": "One For The Road",
+                        "duration": 228,
+                        "id": "24b1b8d5-cd2f-4b3a-9dd3-0e0e2ff69cd1"
+                    }
+                ],
+                "id": "f7d2cfc2-8445-4a68-a74a-0565b05769e0"
+            }
+        ]
+    },
+    {
+        "name": "The Strokes",
+        "image": "strokes_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "The Strokes, formed in 1998, are an indie rock band from New York City. Known for their garage rock revival sound and charismatic frontman Julian Casablancas, the band gained widespread acclaim with their debut album 'Is This It.'",
+        "numPlays": 86326,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4520",
+        "albums": [
+            {
+                "name": "Is This It",
+                "image": "strokes_album1_cover.jpg",
+                "releasedDate": "2001-07-30",
+                "band": "The Strokes",
+                "tracks": [
+                    {
+                        "name": "Someday",
+                        "duration": 192,
+                        "id": "f257e758-b409-4e7b-9164-38012f906b3c"
+                    },
+                    {
+                        "name": "Last Nite",
+                        "duration": 173,
+                        "id": "4e54a2b3-c48e-4b9c-aee0-18ecb4d5591d"
+                    },
+                    {
+                        "name": "Hard to Explain",
+                        "duration": 196,
+                        "id": "ea1ad43b-5f8c-4f9c-bcbf-1a104141e50c"
+                    }
+                ],
+                "id": "48e1075f-9a33-4f43-9e61-ec2f733cc5d9"
+            },
+            {
+                "name": "Room on Fire",
+                "image": "strokes_album2_cover.jpg",
+                "releasedDate": "2003-10-28",
+                "band": "The Strokes",
+                "tracks": [
+                    {
+                        "name": "12:51",
+                        "duration": 157,
+                        "id": "08438f77-eebd-4e1f-996a-d1a654554f91"
+                    },
+                    {
+                        "name": "Reptilia",
+                        "duration": 193,
+                        "id": "6b0ee104-0707-4cc4-9fcf-003edbf06cd2"
+                    },
+                    {
+                        "name": "Under Control",
+                        "duration": 201,
+                        "id": "53a8a48b-2077-4712-98a5-059254fb1f89"
+                    }
+                ],
+                "id": "7e387f11-2a02-4d74-8eaf-0178cf98210e"
+            }
+        ]
+    },
+    {
+        "name": "The Libertines",
+        "image": "libertines_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "The Libertines, formed in 1997, are an indie rock band from London, England. Fronted by Pete Doherty and Carl Barât, the band gained attention for their raw and energetic performances, often associated with the garage rock revival of the early 2000s.",
+        "numPlays": 98686,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4521",
+        "albums": [
+            {
+                "name": "Up the Bracket",
+                "image": "libertines_album1_cover.jpg",
+                "releasedDate": "2002-10-14",
+                "band": "The Libertines",
+                "tracks": [
+                    {
+                        "name": "Up the Bracket",
+                        "duration": 163,
+                        "id": "e7b265f3-7ac2-439c-9ba3-0f67d69e9d4b"
+                    },
+                    {
+                        "name": "Time for Heroes",
+                        "duration": 137,
+                        "id": "bbf3e4cf-fb44-4510-9a5d-c07946cfd508"
+                    },
+                    {
+                        "name": "Boys in the Band",
+                        "duration": 193,
+                        "id": "2f70ddc0-2a26-4a69-aab6-3ac222131e98"
+                    }
+                ],
+                "id": "67e172f5-2c14-4d2d-a9b8-59cb1051c1da"
+            },
+            {
+                "name": "The Libertines",
+                "image": "libertines_album2_cover.jpg",
+                "releasedDate": "2004-08-30",
+                "band": "The Libertines",
+                "tracks": [
+                    {
+                        "name": "Can't Stand Me Now",
+                        "duration": 192,
+                        "id": "c01650de-cd13-4e3c-bad1-5cf8a0d9e164"
+                    },
+                    {
+                        "name": "What Became of the Likely Lads",
+                        "duration": 197,
+                        "id": "29ff7a09-e44b-4181-8d74-6402c187af97"
+                    },
+                    {
+                        "name": "Music When the Lights Go Out",
+                        "duration": 185,
+                        "id": "f01f226c-79cd-4a60-9b32-1cace6540d53"
+                    }
+                ],
+                "id": "7d3d097a-fb3e-4960-b168-1ba7b938b4a4"
+            }
+        ]
+    },
+    {
+        "name": "The Stone Roses",
+        "image": "stone_roses_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "The Stone Roses, formed in 1983, are an iconic indie rock band from Manchester, England. Led by vocalist Ian Brown, the band is known for their self-titled debut album, often considered one of the greatest albums in the history of British music.",
+        "numPlays": 86323,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4522",
+        "albums": [
+            {
+                "name": "The Stone Roses",
+                "image": "stone_roses_album1_cover.jpg",
+                "releasedDate": "1989-05-02",
+                "band": "The Stone Roses",
+                "tracks": [
+                    {
+                        "name": "I Wanna Be Adored",
+                        "duration": 288,
+                        "id": "c7e08009-7882-4774-883a-73a98ee62217"
+                    },
+                    {
+                        "name": "Waterfall",
+                        "duration": 271,
+                        "id": "7c0d0911-89a4-4c11-9ec5-01c7ab83df3a"
+                    },
+                    {
+                        "name": "She Bangs the Drums",
+                        "duration": 223,
+                        "id": "0f27c40e-1326-4edf-ba18-4b45ac2a6e71"
+                    }
+                ],
+                "id": "a8c64e3e-6fe1-4a2b-b142-e3efbaaa1f35"
+            },
+            {
+                "name": "Second Coming",
+                "image": "stone_roses_album2_cover.jpg",
+                "releasedDate": "1994-12-05",
+                "band": "The Stone Roses",
+                "tracks": [
+                    {
+                        "name": "Love Spreads",
+                        "duration": 352,
+                        "id": "fc96121e-034d-4b87-b8f7-609a2bc3a8a4"
+                    },
+                    {
+                        "name": "Ten Storey Love Song",
+                        "duration": 277,
+                        "id": "fc4e3b10-bc6b-4781-b7b3-88e6736f3ad4"
+                    },
+                    {
+                        "name": "Begging You",
+                        "duration": 306,
+                        "id": "6671a5f2-cbe7-42f1-b94a-6de1b248f8e5"
+                    }
+                ],
+                "id": "3cb0b0fe-c50a-4564-9d9d-e4e0bc960cd5"
+            }
+        ]
+    },
+    {
+        "name": "The Verve",
+        "image": "verve_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "The Verve, formed in 1989, are an alternative rock band from Wigan, England. Known for their distinctive sound and the iconic hit 'Bitter Sweet Symphony,' the band experienced both critical and commercial success during their career.",
+        "numPlays": 789127,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4523",
+        "albums": [
+            {
+                "name": "Urban Hymns",
+                "image": "verve_album1_cover.jpg",
+                "releasedDate": "1997-09-29",
+                "band": "The Verve",
+                "tracks": [
+                    {
+                        "name": "Bitter Sweet Symphony",
+                        "duration": 383,
+                        "id": "6a96ed9a-3e2e-4d67-b68b-10f097d76f0f"
+                    },
+                    {
+                        "name": "The Drugs Don't Work",
+                        "duration": 279,
+                        "id": "4a3b4e9b-1e96-4edf-a503-f9a34cd6e787"
+                    },
+                    {
+                        "name": "Lucky Man",
+                        "duration": 278,
+                        "id": "f0d26087-6e5e-4b15-850b-7fc30c19f8a2"
+                    }
+                ],
+                "id": "d17ccfe3-0979-446f-9f87-8bfae3a2929e"
+            },
+            {
+                "name": "A Northern Soul",
+                "image": "verve_album2_cover.jpg",
+                "releasedDate": "1995-07-03",
+                "band": "The Verve",
+                "tracks": [
+                    {
+                        "name": "A New Decade",
+                        "duration": 463,
+                        "id": "b54ad8a4-b383-4a77-bf5c-ae9e53bc1769"
+                    },
+                    {
+                        "name": "On Your Own",
+                        "duration": 366,
+                        "id": "49a7a363-c78d-47f8-b0b6-d9a777ebdf33"
+                    },
+                    {
+                        "name": "History",
+                        "duration": 368,
+                        "id": "6f34e6c0-d86e-41f0-b6eb-ff0c1e76c2c5"
+                    }
+                ],
+                "id": "10316ed8-2f4a-4d19-a870-73f5757a93df"
+            }
+        ]
+    },
+    {
+        "name": "The Psychedelic Furs",
+        "image": "psychedelic_furs_band.jpg",
+        "genre": "Post-Punk",
+        "biography": "The Psychedelic Furs, formed in 1977, are a post-punk band from London, England. Known for their energetic and melodic sound, the band achieved success in the 1980s with hits like 'Love My Way' and 'Pretty in Pink.'",
+        "numPlays": 678032,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4524",
+        "albums": [
+            {
+                "name": "Talk Talk Talk",
+                "image": "psychedelic_furs_album1_cover.jpg",
+                "releasedDate": "1981-06-01",
+                "band": "The Psychedelic Furs",
+                "tracks": [
+                    {
+                        "name": "Pretty in Pink",
+                        "duration": 235,
+                        "id": "0e937738-c1a4-4d44-b217-8bafa48a32a9"
+                    },
+                    {
+                        "name": "Mr. Jones",
+                        "duration": 213,
+                        "id": "537ec77a-1995-4142-96c9-8d6b41b1db96"
+                    },
+                    {
+                        "name": "Dumb Waiters",
+                        "duration": 191,
+                        "id": "aaf05e3b-36a9-437f-8a4c-71e3b85a83b2"
+                    }
+                ],
+                "id": "27bcdf4f-74e1-47f5-b2ac-7d5a8266e96a"
+            },
+            {
+                "name": "Forever Now",
+                "image": "psychedelic_furs_album2_cover.jpg",
+                "releasedDate": "1982-09-25",
+                "band": "The Psychedelic Furs",
+                "tracks": [
+                    {
+                        "name": "Love My Way",
+                        "duration": 231,
+                        "id": "86986b8e-41d4-4b19-af93-d3fbd837c60e"
+                    },
+                    {
+                        "name": "President Gas",
+                        "duration": 248,
+                        "id": "963c1d26-2f2c-40db-b4ea-f63013d4eb84"
+                    },
+                    {
+                        "name": "Run and Run",
+                        "duration": 223,
+                        "id": "eb5b7d66-8c5a-4d95-8e6a-33d282c0ec61"
+                    }
+                ],
+                "id": "48ee2ee7-8011-49dd-9e93-54f00d71e3c2"
+            }
+        ]
+    },
+    {
+        "name": "The Go-Go's",
+        "image": "go_gos_band.jpg",
+        "genre": "New Wave",
+        "biography": "The Go-Go's, formed in 1978, are a new wave band from Los Angeles, California. The all-female group achieved success in the early 1980s with hits like 'Our Lips Are Sealed' and 'Vacation.'",
+        "numPlays": 1435078,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4525",
+        "albums": [
+            {
+                "name": "Beauty and the Beat",
+                "image": "go_gos_album1_cover.jpg",
+                "releasedDate": "1981-07-08",
+                "band": "The Go-Go's",
+                "tracks": [
+                    {
+                        "name": "Our Lips Are Sealed",
+                        "duration": 161,
+                        "id": "9e01e512-896e-4c14-9c21-8e0b564e54c8"
+                    },
+                    {
+                        "name": "We Got the Beat",
+                        "duration": 148,
+                        "id": "c0f9dd33-1d32-47b3-afac-17f6c5d58705"
+                    },
+                    {
+                        "name": "Lust to Love",
+                        "duration": 276,
+                        "id": "9c3e9c47-e0c9-4311-8c64-96f130d8f03d"
+                    }
+                ],
+                "id": "8e5bc5ad-79b2-499b-b8c6-0a2f6c8ec3b7"
+            },
+            {
+                "name": "Vacation",
+                "image": "go_gos_album2_cover.jpg",
+                "releasedDate": "1982-08-11",
+                "band": "The Go-Go's",
+                "tracks": [
+                    {
+                        "name": "Vacation",
+                        "duration": 186,
+                        "id": "7c7c7b2d-716d-4f63-9272-ef4620a1a26f"
+                    },
+                    {
+                        "name": "Get Up and Go",
+                        "duration": 167,
+                        "id": "1e075183-0c07-47e7-91da-b0f616ea62f7"
+                    },
+                    {
+                        "name": "This Old Feeling",
+                        "duration": 217,
+                        "id": "7f9cc8f2-ff44-4a16-b21b-dad1482a8894"
+                    }
+                ],
+                "id": "eab963d5-40d0-43a2-8eeb-e570f32c16b2"
+            }
+        ]
+    },
+    {
+        "name": "The Violent Femmes",
+        "image": "violent_femmes_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "The Violent Femmes, formed in 1980, are an alternative rock band from Milwaukee, Wisconsin. Known for their unique blend of folk and punk influences, the band gained popularity with their self-titled debut album, featuring the iconic track 'Blister in the Sun.'",
+        "numPlays": 453018,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4526",
+        "albums": [
+            {
+                "name": "Violent Femmes",
+                "image": "violent_femmes_album1_cover.jpg",
+                "releasedDate": "1983-04-13",
+                "band": "The Violent Femmes",
+                "tracks": [
+                    {
+                        "name": "Blister in the Sun",
+                        "duration": 151,
+                        "id": "e7a30b20-bbe4-45d8-b4bc-08a16b62e048"
+                    },
+                    {
+                        "name": "Kiss Off",
+                        "duration": 174,
+                        "id": "3e21ba9f-267b-4d1f-b66b-2e0019ac5f1d"
+                    },
+                    {
+                        "name": "Add It Up",
+                        "duration": 261,
+                        "id": "6cb28e89-cb71-4af5-ba4a-769a3e0a6967"
+                    }
+                ],
+                "id": "c39ad183-0943-4f6b-8e9a-108710d02c68"
+            },
+            {
+                "name": "Hallowed Ground",
+                "image": "violent_femmes_album2_cover.jpg",
+                "releasedDate": "1984-06-01",
+                "band": "The Violent Femmes",
+                "tracks": [
+                    {
+                        "name": "Country Death Song",
+                        "duration": 266,
+                        "id": "f7b8adad-53b3-48c3-8277-2b6f2da8663b"
+                    },
+                    {
+                        "name": "Never Tell",
+                        "duration": 173,
+                        "id": "170ce33d-80e1-4b04-8f79-b6e546a6c41a"
+                    },
+                    {
+                        "name": "Hallowed Ground",
+                        "duration": 293,
+                        "id": "a1f3f942-dde7-4bf5-a2f2-c4e0f4c8d46f"
+                    }
+                ],
+                "id": "ab200556-102d-4961-ae80-07b539f4e017"
+            }
+        ]
+    },
+    {
+        "name": "The Stellastarr*",
+        "image": "stellastarr_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "The Stellastarr*, formed in 2000, are an indie rock band from New York City. Known for their post-punk and new wave influences, the band gained attention with their self-titled debut album and tracks like 'My Coco' and 'Jenny.'",
+        "numPlays": 15239,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4527",
+        "albums": [
+            {
+                "name": "Stellastarr*",
+                "image": "stellastarr_album1_cover.jpg",
+                "releasedDate": "2003-09-23",
+                "band": "The Stellastarr*",
+                "tracks": [
+                    {
+                        "name": "In the Walls",
+                        "duration": 233,
+                        "id": "1ce7c45c-4d9b-4570-967c-065d7895e1b9"
+                    },
+                    {
+                        "name": "My Coco",
+                        "duration": 215,
+                        "id": "44e530d1-79d2-4c12-a4e6-3a0ef7381f85"
+                    },
+                    {
+                        "name": "Jenny",
+                        "duration": 211,
+                        "id": "c946d013-7f0e-47a1-8d03-b193ee395c4a"
+                    }
+                ],
+                "id": "71c3fc97-6e22-4aa2-927a-58f8fdd4975f"
+            },
+            {
+                "name": "Harmonies for the Haunted",
+                "image": "stellastarr_album2_cover.jpg",
+                "releasedDate": "2005-09-13",
+                "band": "The Stellastarr*",
+                "tracks": [
+                    {
+                        "name": "Lost in Time",
+                        "duration": 235,
+                        "id": "60e7d65e-6e2b-4a91-a3ce-6f8378c05632"
+                    },
+                    {
+                        "name": "Sweet Troubled Soul",
+                        "duration": 259,
+                        "id": "a7a95a5f-d07e-4091-975f-05e2c6017d27"
+                    },
+                    {
+                        "name": "Island Lost at Sea",
+                        "duration": 224,
+                        "id": "bfbe8551-c84c-44f2-af0d-d1a74db7bb14"
+                    }
+                ],
+                "id": "88a0e69e-5404-48a1-ba03-1fbd110e05eb"
+            }
+        ]
+    },
+    {
+        "name": "The Presidents of the United States of America",
+        "image": "presidents_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "The Presidents of the United States of America, formed in 1993, are an alternative rock band from Seattle, Washington. Known for their catchy and humorous songs, the band gained popularity with hits like 'Lump' and 'Peaches.'",
+        "numPlays": 327894,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4528",
+        "albums": [
+            {
+                "name": "The Presidents of the United States of America",
+                "image": "presidents_album1_cover.jpg",
+                "releasedDate": "1995-03-10",
+                "band": "The Presidents of the United States of America",
+                "tracks": [
+                    {
+                        "name": "Lump",
+                        "duration": 141,
+                        "id": "6b4d18a0-b13e-4f63-99f8-dcf844d0f4e8"
+                    },
+                    {
+                        "name": "Kitty",
+                        "duration": 123,
+                        "id": "d348b3a3-d642-4e42-bc71-0b9fe5c1eb0b"
+                    },
+                    {
+                        "name": "Peaches",
+                        "duration": 146,
+                        "id": "a0b9d2b0-71b8-4a62-a6a7-01e98a704429"
+                    }
+                ],
+                "id": "2274a700-bcb8-4f94-89cc-7ce77b17be88"
+            },
+            {
+                "name": "II",
+                "image": "presidents_album2_cover.jpg",
+                "releasedDate": "1996-11-05",
+                "band": "The Presidents of the United States of America",
+                "tracks": [
+                    {
+                        "name": "Mach 5",
+                        "duration": 117,
+                        "id": "2c1c37ce-050d-45da-9c35-c787ce2d0c1d"
+                    },
+                    {
+                        "name": "Dune Buggy",
+                        "duration": 113,
+                        "id": "344e6a0a-704b-41c3-9409-1c50306224bb"
+                    },
+                    {
+                        "name": "Boll Weevil",
+                        "duration": 126,
+                        "id": "c31c5191-2c8e-40b4-a465-c0fb05d8e858"
+                    }
+                ],
+                "id": "76e07188-367a-485f-917b-262a7c2d1677"
+            }
+        ]
+    },
+    {
+        "name": "The 1975",
+        "image": "1975_band.jpg",
+        "genre": "Indie Pop",
+        "biography": "The 1975, formed in 2002, are an indie pop band from Wilmslow, Cheshire, England. Known for their eclectic style blending pop, rock, and electronic elements, the band has gained widespread acclaim for their albums and hits like 'Love It If We Made It' and 'Somebody Else.'",
+        "numPlays": 52135,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4529",
+        "albums": [
+            {
+                "name": "The 1975",
+                "image": "1975_album1_cover.jpg",
+                "releasedDate": "2013-09-02",
+                "band": "The 1975",
+                "tracks": [
+                    {
+                        "name": "The City",
+                        "duration": 238,
+                        "id": "edaceb52-d7ab-4b02-8282-bc4055d6dbb2"
+                    },
+                    {
+                        "name": "Robbers",
+                        "duration": 282,
+                        "id": "b29a468b-bf09-4e4d-bba2-2859ab68b12c"
+                    },
+                    {
+                        "name": "Sex",
+                        "duration": 198,
+                        "id": "625db593-72ac-4b32-a0f5-59f79d5abf6d"
+                    }
+                ],
+                "id": "f84b7910-aa2c-4c38-83f9-2e7381a85695"
+            },
+            {
+                "name": "I Like It When You Sleep, for You Are So Beautiful Yet So Unaware of It",
+                "image": "1975_album2_cover.jpg",
+                "releasedDate": "2016-02-26",
+                "band": "The 1975",
+                "tracks": [
+                    {
+                        "name": "Love Me",
+                        "duration": 223,
+                        "id": "f71751f7-e35d-4d3b-9975-305d30b35a79"
+                    },
+                    {
+                        "name": "Somebody Else",
+                        "duration": 310,
+                        "id": "97c17622-86e5-47c0-b8a3-2b96f8e1678d"
+                    },
+                    {
+                        "name": "The Sound",
+                        "duration": 281,
+                        "id": "f3c83db3-4417-470b-bc1d-6d4e1cb69a60"
+                    }
+                ],
+                "id": "b4f92a56-e184-4a5b-bd0c-89f134a1b7bf"
+            }
+        ]
+    },
+    {
+        "name": "The Black Keys",
+        "image": "black_keys_band.jpg",
+        "genre": "Blues Rock",
+        "biography": "The Black Keys, formed in 2001, are a blues rock band from Akron, Ohio. Comprising Dan Auerbach and Patrick Carney, the duo has achieved critical and commercial success with their raw and soulful sound, producing hits like 'Lonely Boy' and 'Gold on the Ceiling.'",
+        "numPlays": 43562,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4530",
+        "albums": [
+            {
+                "name": "Brothers",
+                "image": "black_keys_album1_cover.jpg",
+                "releasedDate": "2010-05-18",
+                "band": "The Black Keys",
+                "tracks": [
+                    {
+                        "name": "Everlasting Light",
+                        "duration": 213,
+                        "id": "0138b6d2-3b2e-4fb5-a2a2-413d33c32c2f"
+                    },
+                    {
+                        "name": "Howlin' for You",
+                        "duration": 202,
+                        "id": "a7e04a2b-7b8d-4ef5-a34a-37d137f751fc"
+                    },
+                    {
+                        "name": "Tighten Up",
+                        "duration": 219,
+                        "id": "07fdaa45-4ab8-4c6f-b3c0-8b6fc4c8e72e"
+                    }
+                ],
+                "id": "e8e1dd57-96e2-4b8d-83f7-005156a9eeea"
+            },
+            {
+                "name": "El Camino",
+                "image": "black_keys_album2_cover.jpg",
+                "releasedDate": "2011-12-06",
+                "band": "The Black Keys",
+                "tracks": [
+                    {
+                        "name": "Lonely Boy",
+                        "duration": 194,
+                        "id": "f6152c89-0e92-4e15-98c7-189c26b74e1d"
+                    },
+                    {
+                        "name": "Gold on the Ceiling",
+                        "duration": 215,
+                        "id": "a72e4a6c-145c-49c5-a110-1e2cfe0ff0ee"
+                    },
+                    {
+                        "name": "Little Black Submarines",
+                        "duration": 290,
+                        "id": "a2bbec29-f4cf-4b99-9c54-192d9648d2fb"
+                    }
+                ],
+                "id": "38385688-98c9-4d6a-9bea-5159a2eac5fc"
+            }
+        ]
+    },
+    {
+        "name": "The Hives",
+        "image": "hives_band.jpg",
+        "genre": "Garage Rock",
+        "biography": "The Hives, formed in 1993, are a garage rock band from Fagersta, Sweden. Known for their energetic and charismatic performances, the band gained international fame with hits like 'Hate to Say I Told You So' and 'Main Offender.'",
+        "numPlays": 87686,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4531",
+        "albums": [
+            {
+                "name": "Veni Vidi Vicious",
+                "image": "hives_album1_cover.jpg",
+                "releasedDate": "2000-04-10",
+                "band": "The Hives",
+                "tracks": [
+                    {
+                        "name": "Hate to Say I Told You So",
+                        "duration": 198,
+                        "id": "0a94b183-ba7b-4a79-b3c3-9df8e4c0e2fe"
+                    },
+                    {
+                        "name": "Main Offender",
+                        "duration": 157,
+                        "id": "25d62c6b-df11-4182-a721-37f6b7da8697"
+                    },
+                    {
+                        "name": "Die, All Right!",
+                        "duration": 120,
+                        "id": "84539a49-1e9b-45a2-b87e-1ebd8e6049d2"
+                    }
+                ],
+                "id": "9c4b54e2-fac2-4cc4-b9a8-744cfdfb4404"
+            },
+            {
+                "name": "Tyrannosaurus Hives",
+                "image": "hives_album2_cover.jpg",
+                "releasedDate": "2004-06-29",
+                "band": "The Hives",
+                "tracks": [
+                    {
+                        "name": "Walk Idiot Walk",
+                        "duration": 211,
+                        "id": "8bc9a67d-b81f-4b2f-8641-2829a8a15989"
+                    },
+                    {
+                        "name": "Two-Timing Touch and Broken Bones",
+                        "duration": 148,
+                        "id": "05ef8a14-7893-4b84-b056-9f6d723872b7"
+                    },
+                    {
+                        "name": "A Little More for Little You",
+                        "duration": 160,
+                        "id": "d2fb6c95-d185-4f89-8a5f-4a08075455bb"
+                    }
+                ],
+                "id": "4320c628-7e85-4a7a-a687-5a8d6df28ea3"
+            }
+        ]
+    },
+    {
+        "name": "Foo Fighters",
+        "image": "foo_fighters_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "Foo Fighters, formed in 1994 by Dave Grohl, are an alternative rock band from Seattle, Washington. With a blend of powerful rock anthems and melodic tunes, the band has achieved global success with hits like 'Everlong' and 'The Pretender.'",
+        "numPlays": 312321,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4532",
+        "albums": [
+            {
+                "name": "The Colour and the Shape",
+                "image": "foo_fighters_album1_cover.jpg",
+                "releasedDate": "1997-05-20",
+                "band": "Foo Fighters",
+                "tracks": [
+                    {
+                        "name": "Everlong",
+                        "duration": 250,
+                        "id": "3bf1324d-06cd-4b4e-b873-893bd416ef82"
+                    },
+                    {
+                        "name": "My Hero",
+                        "duration": 242,
+                        "id": "d5aa26c3-bc2c-4a09-b28c-c1849a4d0e1c"
+                    },
+                    {
+                        "name": "Monkey Wrench",
+                        "duration": 218,
+                        "id": "7ff1632f-9e8f-4e43-8f4c-7e35194fe5c1"
+                    }
+                ],
+                "id": "b4d2046e-6bf3-4efb-a8f2-6b59a0f2f067"
+            },
+            {
+                "name": "Wasting Light",
+                "image": "foo_fighters_album2_cover.jpg",
+                "releasedDate": "2011-04-12",
+                "band": "Foo Fighters",
+                "tracks": [
+                    {
+                        "name": "Rope",
+                        "duration": 246,
+                        "id": "f52b8d91-57a3-464e-bfb6-4dd52dd67cf2"
+                    },
+                    {
+                        "name": "White Limo",
+                        "duration": 174,
+                        "id": "0fd0384c-af7d-4d4d-b7c6-2a5efdc86cbf"
+                    },
+                    {
+                        "name": "Walk",
+                        "duration": 293,
+                        "id": "c4d34b85-d99d-431b-9f07-13a7840b78ef"
+                    }
+                ],
+                "id": "f1a6f48b-ef7b-4d05-8ea9-f367a97e8911"
+            }
+        ]
+    },
+    {
+        "name": "Radiohead",
+        "image": "radiohead_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "Radiohead, formed in 1985, is an alternative rock band from Abingdon, England. Renowned for their experimental sound and thought-provoking lyrics, the band has produced iconic albums like 'OK Computer' and 'Kid A.'",
+        "numPlays": 45645,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4533",
+        "albums": [
+            {
+                "name": "OK Computer",
+                "image": "radiohead_album1_cover.jpg",
+                "releasedDate": "1997-05-28",
+                "band": "Radiohead",
+                "tracks": [
+                    {
+                        "name": "Paranoid Android",
+                        "duration": 386,
+                        "id": "2d7b1c9c-5e40-4e60-b8f2-5c7c76d75a67"
+                    },
+                    {
+                        "name": "Karma Police",
+                        "duration": 265,
+                        "id": "edf3b9e0-29bf-45aa-896e-53604f2e8365"
+                    },
+                    {
+                        "name": "No Surprises",
+                        "duration": 226,
+                        "id": "b70d3a10-9cd7-421b-bc56-6de7c7ff0d0e"
+                    }
+                ],
+                "id": "9c8f0d01-4b3f-4c2c-b9f0-7a0f7ea8eb36"
+            },
+            {
+                "name": "Kid A",
+                "image": "radiohead_album2_cover.jpg",
+                "releasedDate": "2000-10-02",
+                "band": "Radiohead",
+                "tracks": [
+                    {
+                        "name": "Everything in Its Right Place",
+                        "duration": 240,
+                        "id": "f9e1979d-82da-4752-b06f-7b02f6639a3d"
+                    },
+                    {
+                        "name": "Idioteque",
+                        "duration": 319,
+                        "id": "d3d8c03c-899e-4f97-b15f-875a9e46e6d8"
+                    },
+                    {
+                        "name": "How to Disappear Completely",
+                        "duration": 333,
+                        "id": "d12fc38f-bad7-4df3-9db7-c3b95a6146b2"
+                    }
+                ],
+                "id": "829e118a-731a-4f94-bc1b-2bc6d15bf417"
+            }
+        ]
+    },
+    {
+        "name": "Red Hot Chili Peppers",
+        "image": "rhcp_band.jpg",
+        "genre": "Funk Rock",
+        "biography": "Red Hot Chili Peppers, formed in 1983, are a funk rock band from Los Angeles, California. Known for their energetic performances and unique fusion of rock and funk, the band has produced hit albums like 'Blood Sugar Sex Magik' and 'Californication.'",
+        "numPlays": 675756,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4534",
+        "albums": [
+            {
+                "name": "Blood Sugar Sex Magik",
+                "image": "rhcp_album1_cover.jpg",
+                "releasedDate": "1991-09-24",
+                "band": "Red Hot Chili Peppers",
+                "tracks": [
+                    {
+                        "name": "Under the Bridge",
+                        "duration": 273,
+                        "id": "2c6bf55b-f418-4207-93ad-33ef7865c596"
+                    },
+                    {
+                        "name": "Give It Away",
+                        "duration": 331,
+                        "id": "1e0d9f24-97b2-4fe5-8e46-9831bb8f08d3"
+                    },
+                    {
+                        "name": "Suck My Kiss",
+                        "duration": 211,
+                        "id": "d74be661-d5b9-4a44-8d2c-4518c3e6b501"
+                    }
+                ],
+                "id": "b19c2453-575c-4f60-9509-0f3b4487c44e"
+            },
+            {
+                "name": "Californication",
+                "image": "rhcp_album2_cover.jpg",
+                "releasedDate": "1999-06-08",
+                "band": "Red Hot Chili Peppers",
+                "tracks": [
+                    {
+                        "name": "Scar Tissue",
+                        "duration": 213,
+                        "id": "0b0edc18-5d1c-4b6b-9b74-86958f8d47f1"
+                    },
+                    {
+                        "name": "Otherside",
+                        "duration": 241,
+                        "id": "2b76c9a4-72c3-4850-8455-90c1965b14c7"
+                    },
+                    {
+                        "name": "Californication",
+                        "duration": 327,
+                        "id": "b06df095-d8cc-49c3-90ab-78d8196f109b"
+                    }
+                ],
+                "id": "647f1657-6d5f-4ee1-89f5-c9a563fd812b"
+            }
+        ]
+    },
+    {
+        "name": "The White Stripes",
+        "image": "white_stripes_band.jpg",
+        "genre": "Garage Rock",
+        "biography": "The White Stripes, formed in 1997, were a garage rock duo consisting of Jack White and Meg White. Hailing from Detroit, Michigan, they gained widespread acclaim for their raw and minimalist approach to rock music.",
+        "numPlays": 56875,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4535",
+        "albums": [
+            {
+                "name": "Elephant",
+                "image": "white_stripes_album1_cover.jpg",
+                "releasedDate": "2003-04-01",
+                "band": "The White Stripes",
+                "tracks": [
+                    {
+                        "name": "Seven Nation Army",
+                        "duration": 230,
+                        "id": "c0e67d57-53b3-46ad-9f54-9676d852c570"
+                    },
+                    {
+                        "name": "Icky Thump",
+                        "duration": 267,
+                        "id": "64c8f17b-2733-42ec-8fbf-82bf3e06e4b1"
+                    },
+                    {
+                        "name": "The Hardest Button to Button",
+                        "duration": 218,
+                        "id": "f768f0e5-3f64-4d25-8d33-bd59f7e2327c"
+                    }
+                ],
+                "id": "a9de68b3-0b83-4b2e-8356-99d6ef671c0f"
+            },
+            {
+                "name": "White Blood Cells",
+                "image": "white_stripes_album2_cover.jpg",
+                "releasedDate": "2001-07-03",
+                "band": "The White Stripes",
+                "tracks": [
+                    {
+                        "name": "Fell in Love with a Girl",
+                        "duration": 120,
+                        "id": "b879545c-1ba0-4e33-b2e6-026b9cf61d2a"
+                    },
+                    {
+                        "name": "Dead Leaves and the Dirty Ground",
+                        "duration": 178,
+                        "id": "be429c68-8195-4c86-9266-d384e26a94f4"
+                    },
+                    {
+                        "name": "Hotel Yorba",
+                        "duration": 124,
+                        "id": "d678ef0a-55a1-4c8f-85a1-ef785f6504ac"
+                    }
+                ],
+                "id": "3b40941a-c71a-48fc-b4a3-480844b7c5d7"
+            }
+        ]
+    },
+    {
+        "name": "Muse",
+        "image": "muse_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "Muse, formed in 1994, is an alternative rock band from Teignmouth, Devon, England. Known for their progressive and experimental sound, the band has garnered widespread acclaim with albums like 'Origin of Symmetry' and 'Absolution.'",
+        "numPlays": 32541,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4536",
+        "albums": [
+            {
+                "name": "Origin of Symmetry",
+                "image": "muse_album1_cover.jpg",
+                "releasedDate": "2001-07-17",
+                "band": "Muse",
+                "tracks": [
+                    {
+                        "name": "Plug In Baby",
+                        "duration": 226,
+                        "id": "ef74e5ad-c477-42d3-9a6a-57d1a658f27c"
+                    },
+                    {
+                        "name": "New Born",
+                        "duration": 396,
+                        "id": "a05950ff-7c92-40d6-94e6-3a4e55341cfb"
+                    },
+                    {
+                        "name": "Citizen Erased",
+                        "duration": 397,
+                        "id": "9f40dbf9-1c6a-4da7-8ba1-cf9f00358af9"
+                    }
+                ],
+                "id": "6f96b1a0-2b65-4e8d-8e71-d7643f5fb0da"
+            },
+            {
+                "name": "Absolution",
+                "image": "muse_album2_cover.jpg",
+                "releasedDate": "2003-09-15",
+                "band": "Muse",
+                "tracks": [
+                    {
+                        "name": "Time Is Running Out",
+                        "duration": 240,
+                        "id": "29cbf758-5f5b-47d5-9d75-e6cc1a04896d"
+                    },
+                    {
+                        "name": "Hysteria",
+                        "duration": 228,
+                        "id": "1811c6d7-6f8c-45c4-8c0a-34ed88fe7f12"
+                    },
+                    {
+                        "name": "Stockholm Syndrome",
+                        "duration": 268,
+                        "id": "d5c964cd-53e7-4f05-aa7b-18b1ed44a596"
+                    }
+                ],
+                "id": "b2c0b848-6ebc-47db-b605-ea317c7e0500"
+            }
+        ]
+    },
+    {
+        "name": "Queens of the Stone Age",
+        "image": "qotsa_band.jpg",
+        "genre": "Stoner Rock",
+        "biography": "Queens of the Stone Age, formed in 1996, are a stoner rock band from Palm Desert, California. Led by Josh Homme, the band is known for their heavy, riff-driven sound and dynamic musical style.",
+        "numPlays": 87234,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4636",
+        "albums": [
+            {
+                "name": "Songs for the Deaf",
+                "image": "qotsa_album1_cover.jpg",
+                "releasedDate": "2002-08-27",
+                "band": "Queens of the Stone Age",
+                "tracks": [
+                    {
+                        "name": "No One Knows",
+                        "duration": 259,
+                        "id": "5f260623-64b0-49f1-9ce7-19c6259ac86b"
+                    },
+                    {
+                        "name": "Go with the Flow",
+                        "duration": 198,
+                        "id": "e9d9d762-9b52-42b9-98ce-fec1a300fe99"
+                    },
+                    {
+                        "name": "A Song for the Dead",
+                        "duration": 308,
+                        "id": "a9bba260-63e2-48d7-b42c-5eb3ffad6b43"
+                    }
+                ],
+                "id": "bd3ab4b9-148d-4f6b-bd7c-1c75e8662d1f"
+            },
+            {
+                "name": "...Like Clockwork",
+                "image": "qotsa_album2_cover.jpg",
+                "releasedDate": "2013-06-03",
+                "band": "Queens of the Stone Age",
+                "tracks": [
+                    {
+                        "name": "My God Is the Sun",
+                        "duration": 308,
+                        "id": "c6a87a16-ff2a-4097-8e23-59f1a1cdd7ac"
+                    },
+                    {
+                        "name": "I Sat by the Ocean",
+                        "duration": 312,
+                        "id": "45a5c10e-5efb-4aa5-875e-9921a9268cf7"
+                    },
+                    {
+                        "name": "Smooth Sailing",
+                        "duration": 272,
+                        "id": "13bb0fc0-7799-42f5-9c05-f4d2b55e683b"
+                    }
+                ],
+                "id": "a7f03358-78cb-4a9a-8e87-3eb1b6181f96"
+            }
+        ]
+    },
+    {
+        "name": "Incubus",
+        "image": "incubus_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "Incubus, formed in 1991, is an alternative rock band from Calabasas, California. Known for their diverse musical style, blending rock, funk, and electronica, the band gained popularity with hits like 'Drive' and 'Wish You Were Here.'",
+        "numPlays": 567653,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4537",
+        "albums": [
+            {
+                "name": "Make Yourself",
+                "image": "incubus_album1_cover.jpg",
+                "releasedDate": "1999-10-26",
+                "band": "Incubus",
+                "tracks": [
+                    {
+                        "name": "Drive",
+                        "duration": 210,
+                        "id": "73e8a61a-52a8-4e4c-9b60-4162a7d67d09"
+                    },
+                    {
+                        "name": "Stellar",
+                        "duration": 221,
+                        "id": "0d1e6bb8-c616-4f23-9602-d0f38d11e26d"
+                    },
+                    {
+                        "name": "Pardon Me",
+                        "duration": 231,
+                        "id": "c2277c80-30b2-4c72-a181-8e0329470cb2"
+                    }
+                ],
+                "id": "63cfd67b-2738-4c1e-96a3-d2bb828b4d92"
+            },
+            {
+                "name": "Morning View",
+                "image": "incubus_album2_cover.jpg",
+                "releasedDate": "2001-10-23",
+                "band": "Incubus",
+                "tracks": [
+                    {
+                        "name": "Wish You Were Here",
+                        "duration": 227,
+                        "id": "1b244c4f-d06b-45f5-913c-0555d8eac6a2"
+                    },
+                    {
+                        "name": "Nice to Know You",
+                        "duration": 252,
+                        "id": "7882b2eb-38d4-4c7b-87e0-5cc2651be2c6"
+                    },
+                    {
+                        "name": "Warning",
+                        "duration": 221,
+                        "id": "f49b446d-ecee-4679-8ba6-6e9e9ba13c57"
+                    }
+                ],
+                "id": "e5424a07-8982-4fe9-8197-74fbcfd28ff5"
+            }
+        ]
+    },
+    {
+        "name": "Alice in Chains",
+        "image": "alice_in_chains_band.jpg",
+        "genre": "Grunge",
+        "biography": "Alice in Chains, formed in 1987, is a grunge band from Seattle, Washington. Known for their dark and brooding sound, the band became one of the pioneers of the grunge movement alongside bands like Nirvana and Soundgarden.",
+        "numPlays": 643633,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4538",
+        "albums": [
+            {
+                "name": "Dirt",
+                "image": "alice_in_chains_album1_cover.jpg",
+                "releasedDate": "1992-09-29",
+                "band": "Alice in Chains",
+                "tracks": [
+                    {
+                        "name": "Rooster",
+                        "duration": 357,
+                        "id": "90a1d4b2-4aa9-4ef8-b3a1-9b40be02b3bb"
+                    },
+                    {
+                        "name": "Would?",
+                        "duration": 208,
+                        "id": "4deba11a-86d5-4f5b-8fe9-7643f4b2fbc7"
+                    },
+                    {
+                        "name": "Down in a Hole",
+                        "duration": 318,
+                        "id": "c2560704-afbd-4c72-a27a-d7db9c20f826"
+                    }
+                ],
+                "id": "d85d5f49-0f87-4562-a0d9-92b82c52f39f"
+            },
+            {
+                "name": "Jar of Flies",
+                "image": "alice_in_chains_album2_cover.jpg",
+                "releasedDate": "1994-01-25",
+                "band": "Alice in Chains",
+                "tracks": [
+                    {
+                        "name": "No Excuses",
+                        "duration": 284,
+                        "id": "bd1a9392-8c9a-4648-9a08-08fb0b3e9b42"
+                    },
+                    {
+                        "name": "I Stay Away",
+                        "duration": 259,
+                        "id": "4e34da7c-6ed2-4e3b-9e4f-5a7e14201169"
+                    },
+                    {
+                        "name": "Nutshell",
+                        "duration": 235,
+                        "id": "9868a14f-b141-4b2d-b5fe-482b7e1d9226"
+                    }
+                ],
+                "id": "b0d0fb90-b09a-4ae5-94e2-f60f1ff4c4fe"
+            }
+        ]
+    },
+    {
+        "name": "System of a Down",
+        "image": "system_of_a_down_band.jpg",
+        "genre": "Alternative Metal",
+        "biography": "System of a Down, formed in 1994, is an alternative metal band from Glendale, California. Known for their unique blend of heavy metal, alternative rock, and political lyrics, the band has achieved international success with albums like 'Toxicity' and 'Mezmerize.'",
+        "numPlays": 63643,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4539",
+        "albums": [
+            {
+                "name": "Toxicity",
+                "image": "system_of_a_down_album1_cover.jpg",
+                "releasedDate": "2001-09-04",
+                "band": "System of a Down",
+                "tracks": [
+                    {
+                        "name": "Chop Suey!",
+                        "duration": 190,
+                        "id": "5cd1d108-b267-4619-b38b-9a3f43db9de5"
+                    },
+                    {
+                        "name": "Toxicity",
+                        "duration": 223,
+                        "id": "10d1e58f-2070-4656-88b8-1394d896505a"
+                    },
+                    {
+                        "name": "Aerials",
+                        "duration": 229,
+                        "id": "6a3c871b-222d-46c3-a6e2-74ab068fc846"
+                    }
+                ],
+                "id": "b5da5c6f-4489-4bf0-a16a-7aabc36f2a76"
+            },
+            {
+                "name": "Mezmerize",
+                "image": "system_of_a_down_album2_cover.jpg",
+                "releasedDate": "2005-05-17",
+                "band": "System of a Down",
+                "tracks": [
+                    {
+                        "name": "B.Y.O.B.",
+                        "duration": 257,
+                        "id": "8216a142-e8b7-49ef-b1f2-1dce8e02a498"
+                    },
+                    {
+                        "name": "Question!",
+                        "duration": 192,
+                        "id": "1c0e5866-6a3d-4483-a12b-416c23c5f42e"
+                    },
+                    {
+                        "name": "Violent Pornography",
+                        "duration": 183,
+                        "id": "2a2e0b4c-fba0-4aa1-b537-e79d24b8a866"
+                    }
+                ],
+                "id": "e67d90cc-76f1-48e8-8357-b906a0a5c78b"
+            }
+        ]
+    },
+    {
+        "name": "Tool",
+        "image": "tool_band.jpg",
+        "genre": "Progressive Metal",
+        "biography": "Tool, formed in 1990, is a progressive metal band from Los Angeles, California. Known for their intricate musical compositions and philosophical lyrics, the band has garnered a dedicated fanbase and critical acclaim with albums like 'Lateralus' and 'Ænima.'",
+        "numPlays": 64363,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4540",
+        "albums": [
+            {
+                "name": "Lateralus",
+                "image": "tool_album1_cover.jpg",
+                "releasedDate": "2001-05-15",
+                "band": "Tool",
+                "tracks": [
+                    {
+                        "name": "Schism",
+                        "duration": 398,
+                        "id": "2c5c3d84-bcf5-4e92-b431-1d4961fba2ac"
+                    },
+                    {
+                        "name": "The Grudge",
+                        "duration": 523,
+                        "id": "33480bd0-62ce-415f-9a5b-c9d1e92cf7e1"
+                    },
+                    {
+                        "name": "Lateralus",
+                        "duration": 453,
+                        "id": "b437fc3c-1f69-4ee4-ba1c-3cb70b785bc7"
+                    }
+                ],
+                "id": "74f82619-ff75-4de2-ba89-16310fcfe1e1"
+            },
+            {
+                "name": "Ænima",
+                "image": "tool_album2_cover.jpg",
+                "releasedDate": "1996-09-17",
+                "band": "Tool",
+                "tracks": [
+                    {
+                        "name": "Stinkfist",
+                        "duration": 330,
+                        "id": "b39c9e76-d7c0-4a92-9a62-5f8913e174cc"
+                    },
+                    {
+                        "name": "Ænema",
+                        "duration": 396,
+                        "id": "fb34f0b4-8cd6-4ba1-bb4e-4b17b1330e25"
+                    },
+                    {
+                        "name": "Forty Six & 2",
+                        "duration": 341,
+                        "id": "96f640db-1097-40f1-b8a8-7d4c67ab0bf4"
+                    }
+                ],
+                "id": "982ac1d1-aa7c-4f9d-bef5-38f30ba83b9c"
+            }
+        ]
+    },
+    {
+        "name": "Kings of Leon",
+        "image": "kings_of_leon_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "Kings of Leon, formed in 1999, are an alternative rock band from Nashville, Tennessee. Comprising three brothers and a cousin, the band achieved commercial success with albums like 'Only by the Night' and 'Aha Shake Heartbreak.'",
+        "numPlays": 63643,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4541",
+        "albums": [
+            {
+                "name": "Only by the Night",
+                "image": "kings_of_leon_album1_cover.jpg",
+                "releasedDate": "2008-09-19",
+                "band": "Kings of Leon",
+                "tracks": [
+                    {
+                        "name": "Sex on Fire",
+                        "duration": 203,
+                        "id": "d689c43a-3f6a-4c4d-b9f1-41482de8de2f"
+                    },
+                    {
+                        "name": "Use Somebody",
+                        "duration": 230,
+                        "id": "37f0c334-742a-4d0a-b0b6-efaa8e1b2264"
+                    },
+                    {
+                        "name": "Closer",
+                        "duration": 214,
+                        "id": "1c9f6425-45f5-41df-9a3d-2b10e682c4e8"
+                    }
+                ],
+                "id": "8a429a3e-c4db-48c3-96e1-ae23c7e7417a"
+            },
+            {
+                "name": "Aha Shake Heartbreak",
+                "image": "kings_of_leon_album2_cover.jpg",
+                "releasedDate": "2004-10-01",
+                "band": "Kings of Leon",
+                "tracks": [
+                    {
+                        "name": "The Bucket",
+                        "duration": 188,
+                        "id": "e8d7abf7-23b9-4bd4-bcd7-10e3882c7f3f"
+                    },
+                    {
+                        "name": "King of the Rodeo",
+                        "duration": 220,
+                        "id": "f179bcf0-7b43-493c-8b87-10d7df17b151"
+                    },
+                    {
+                        "name": "Four Kicks",
+                        "duration": 142,
+                        "id": "88a99fe1-c632-4f1f-bc5d-511b5f96fbda"
+                    }
+                ],
+                "id": "c06d5d7c-98a8-4ec8-9e9d-2495ce1295cf"
+            }
+        ]
+    },
+    {
+        "name": "Pearl Jam",
+        "image": "pearl_jam_band.jpg",
+        "genre": "Grunge",
+        "biography": "Pearl Jam, formed in 1990, is a grunge band from Seattle, Washington. One of the pioneering bands of the grunge movement, Pearl Jam gained widespread recognition with albums like 'Ten' and 'Vs.'",
+        "numPlays": 6757653,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4542",
+        "albums": [
+            {
+                "name": "Ten",
+                "image": "pearl_jam_album1_cover.jpg",
+                "releasedDate": "1991-08-27",
+                "band": "Pearl Jam",
+                "tracks": [
+                    {
+                        "name": "Alive",
+                        "duration": 355,
+                        "id": "0f6a08d8-4d69-4905-9298-7f7b35e61f90"
+                    },
+                    {
+                        "name": "Even Flow",
+                        "duration": 300,
+                        "id": "169f9397-37c3-4ef1-8a6e-2d13c36b3576"
+                    },
+                    {
+                        "name": "Jeremy",
+                        "duration": 331,
+                        "id": "199af42f-6c49-4e3d-b0ff-83dbb1255bb3"
+                    }
+                ],
+                "id": "11c96b94-5b2c-42d5-90a7-2240522e85f7"
+            },
+            {
+                "name": "Vs.",
+                "image": "pearl_jam_album2_cover.jpg",
+                "releasedDate": "1993-10-19",
+                "band": "Pearl Jam",
+                "tracks": [
+                    {
+                        "name": "Daughter",
+                        "duration": 233,
+                        "id": "2f242e3e-cd62-42b4-a0e4-7720eef20524"
+                    },
+                    {
+                        "name": "Animal",
+                        "duration": 169,
+                        "id": "e49004fb-1d8e-4d52-a78e-47f78c9c0513"
+                    },
+                    {
+                        "name": "Elderly Woman Behind the Counter in a Small Town",
+                        "duration": 192,
+                        "id": "ec19f206-8e6b-4e37-85d4-9ea7835b44a7"
+                    }
+                ],
+                "id": "50e11d8f-41f7-4e04-8db5-6c054e77c16c"
+            }
+        ]
+    },
+    {
+        "name": "The Smashing Pumpkins",
+        "image": "smashing_pumpkins_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "The Smashing Pumpkins, formed in 1988, are an alternative rock band from Chicago, Illinois. Led by frontman Billy Corgan, the band gained widespread acclaim with albums like 'Siamese Dream' and 'Mellon Collie and the Infinite Sadness.'",
+        "numPlays": 646542,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4543",
+        "albums": [
+            {
+                "name": "Siamese Dream",
+                "image": "smashing_pumpkins_album1_cover.jpg",
+                "releasedDate": "1993-07-27",
+                "band": "The Smashing Pumpkins",
+                "tracks": [
+                    {
+                        "name": "Today",
+                        "duration": 183,
+                        "id": "6e075031-9533-4f95-b813-0c26748fcb4c"
+                    },
+                    {
+                        "name": "Disarm",
+                        "duration": 148,
+                        "id": "601f7a24-ec0b-4a1f-9910-e1a786f362e0"
+                    },
+                    {
+                        "name": "Cherub Rock",
+                        "duration": 299,
+                        "id": "e6f9094d-5b6c-4fb3-bf65-aa0b4e2fb7ec"
+                    }
+                ],
+                "id": "9301b8d4-8829-4a7d-85b5-3cf4b570b5c7"
+            },
+            {
+                "name": "Mellon Collie and the Infinite Sadness",
+                "image": "smashing_pumpkins_album2_cover.jpg",
+                "releasedDate": "1995-10-24",
+                "band": "The Smashing Pumpkins",
+                "tracks": [
+                    {
+                        "name": "1979",
+                        "duration": 273,
+                        "id": "f0f2482c-bf74-475f-b8e4-8584ea6a9a1d"
+                    },
+                    {
+                        "name": "Tonight, Tonight",
+                        "duration": 266,
+                        "id": "36fc71e8-1185-43a0-bf2a-45a678d6fb7a"
+                    },
+                    {
+                        "name": "Bullet with Butterfly Wings",
+                        "duration": 259,
+                        "id": "6dfc4a0a-179d-4ea2-960a-9f125127e04e"
+                    }
+                ],
+                "id": "94d6a568-1c22-4e3d-8f1b-af594c9dd3d1"
+            }
+        ]
+    },
+    {
+        "name": "Soundgarden",
+        "image": "soundgarden_band.jpg",
+        "genre": "Grunge",
+        "biography": "Soundgarden, formed in 1984, is a grunge band from Seattle, Washington. Pioneering the grunge movement alongside bands like Nirvana and Pearl Jam, Soundgarden is known for hits like 'Black Hole Sun' and 'Spoonman.'",
+        "numPlays": 5325326,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4544",
+        "albums": [
+            {
+                "name": "Superunknown",
+                "image": "soundgarden_album1_cover.jpg",
+                "releasedDate": "1994-03-08",
+                "band": "Soundgarden",
+                "tracks": [
+                    {
+                        "name": "Black Hole Sun",
+                        "duration": 320,
+                        "id": "f0c28f46-cd6b-4935-a80d-cdb935f6f671"
+                    },
+                    {
+                        "name": "Spoonman",
+                        "duration": 244,
+                        "id": "f81d75ad-680c-4d59-bef2-cc97a8d98a8d"
+                    },
+                    {
+                        "name": "Fell on Black Days",
+                        "duration": 263,
+                        "id": "c9a4e731-8f21-4c31-8db1-1969030bc570"
+                    }
+                ],
+                "id": "0715b504-69fb-4ef1-8b52-831a44b1fc8e"
+            },
+            {
+                "name": "Badmotorfinger",
+                "image": "soundgarden_album2_cover.jpg",
+                "releasedDate": "1991-10-08",
+                "band": "Soundgarden",
+                "tracks": [
+                    {
+                        "name": "Rusty Cage",
+                        "duration": 285,
+                        "id": "40e90cb2-93ce-4a0f-aa5d-3a2b23a13be2"
+                    },
+                    {
+                        "name": "Outshined",
+                        "duration": 267,
+                        "id": "f8a43714-ec69-4f89-8f49-d24b689407bf"
+                    },
+                    {
+                        "name": "Jesus Christ Pose",
+                        "duration": 320,
+                        "id": "f6f6e754-e726-49e7-a72f-228fb042b0a1"
+                    }
+                ],
+                "id": "f2e079e3-cfbd-4914-bdb7-8b5c6cefb7d0"
+            }
+        ]
+    },
+    {
+        "name": "Rage Against the Machine",
+        "image": "rage_against_the_machine_band.jpg",
+        "genre": "Alternative Metal",
+        "biography": "Rage Against the Machine, formed in 1991, is an alternative metal band from Los Angeles, California. Known for their politically charged lyrics and fusion of rock and rap, the band has been influential with albums like 'Rage Against the Machine' and 'The Battle of Los Angeles.'",
+        "numPlays": 34351,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4545",
+        "albums": [
+            {
+                "name": "Rage Against the Machine",
+                "image": "rage_against_the_machine_album1_cover.jpg",
+                "releasedDate": "1992-11-03",
+                "band": "Rage Against the Machine",
+                "tracks": [
+                    {
+                        "name": "Killing in the Name",
+                        "duration": 309,
+                        "id": "c4d1c91e-d9d3-442f-872b-3d77a29baa0e"
+                    },
+                    {
+                        "name": "Bullet in the Head",
+                        "duration": 346,
+                        "id": "c8f41c01-9b8e-47ae-8ea9-5803d211c0c7"
+                    },
+                    {
+                        "name": "Know Your Enemy",
+                        "duration": 279,
+                        "id": "17f17f88-3f39-4181-930c-83fde971f808"
+                    }
+                ],
+                "id": "5a5fc17e-ccf5-4f52-9444-9a38e419a64a"
+            },
+            {
+                "name": "The Battle of Los Angeles",
+                "image": "rage_against_the_machine_album2_cover.jpg",
+                "releasedDate": "1999-11-02",
+                "band": "Rage Against the Machine",
+                "tracks": [
+                    {
+                        "name": "Guerrilla Radio",
+                        "duration": 192,
+                        "id": "4c7b152b-4d4e-4d7a-9cb7-0b99b5a1721a"
+                    },
+                    {
+                        "name": "Sleep Now in the Fire",
+                        "duration": 225,
+                        "id": "833c7ba6-9929-4c01-88e1-227ad21a1144"
+                    },
+                    {
+                        "name": "Testify",
+                        "duration": 213,
+                        "id": "f0f66c11-9cc1-4d1b-929c-3e4f22df3674"
+                    }
+                ],
+                "id": "10ea50d8-e6e9-4706-b5c2-5c2403be77a2"
+            }
+        ]
+    },
+    {
+        "name": "The Killers",
+        "image": "the_killers_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "The Killers, formed in 2001, are an indie rock band from Las Vegas, Nevada. Known for their anthemic sound and catchy tunes, The Killers have gained international success with albums like 'Hot Fuss' and 'Sam's Town.'",
+        "numPlays": 87642,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4546",
+        "albums": [
+            {
+                "name": "Hot Fuss",
+                "image": "the_killers_album1_cover.jpg",
+                "releasedDate": "2004-06-07",
+                "band": "The Killers",
+                "tracks": [
+                    {
+                        "name": "Mr. Brightside",
+                        "duration": 224,
+                        "id": "d32fc725-6bda-44d5-ba14-cf613d9a628f"
+                    },
+                    {
+                        "name": "Somebody Told Me",
+                        "duration": 197,
+                        "id": "868fa764-0045-4871-976e-788d1f3ff878"
+                    },
+                    {
+                        "name": "All These Things That I've Done",
+                        "duration": 352,
+                        "id": "35d1b846-5120-4d9c-8ff9-7fe5c40f1f69"
+                    }
+                ],
+                "id": "0fb00f35-46b2-4714-9c46-9f9cd46e6e8f"
+            },
+            {
+                "name": "Sam's Town",
+                "image": "the_killers_album2_cover.jpg",
+                "releasedDate": "2006-10-02",
+                "band": "The Killers",
+                "tracks": [
+                    {
+                        "name": "When You Were Young",
+                        "duration": 225,
+                        "id": "2c4e0f2e-c446-4a7d-85c1-4709162d87de"
+                    },
+                    {
+                        "name": "Read My Mind",
+                        "duration": 246,
+                        "id": "2d6c305f-d8cf-4e6a-8094-f20cf607f00c"
+                    },
+                    {
+                        "name": "Bones",
+                        "duration": 204,
+                        "id": "d2cc4ce2-6e0f-4c79-9e13-ff3db0ec74c4"
+                    }
+                ],
+                "id": "a37b3ba9-5a77-4e6d-8a0f-92cb6a64b8f5"
+            }
+        ]
+    },
+    {
+        "name": "Franz Ferdinand",
+        "image": "franz_ferdinand_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "Franz Ferdinand, formed in 2002, is an indie rock band from Glasgow, Scotland. Known for their energetic and danceable tunes, the band achieved success with their self-titled debut album and hits like 'Take Me Out.'",
+        "numPlays": 65452,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4547",
+        "albums": [
+            {
+                "name": "Franz Ferdinand",
+                "image": "franz_ferdinand_album1_cover.jpg",
+                "releasedDate": "2004-02-09",
+                "band": "Franz Ferdinand",
+                "tracks": [
+                    {
+                        "name": "Take Me Out",
+                        "duration": 238,
+                        "id": "bc74f6f0-28de-4b14-9166-65a570282158"
+                    },
+                    {
+                        "name": "The Dark of the Matinée",
+                        "duration": 240,
+                        "id": "d5e047d0-c52b-439c-b1a0-44796a510b76"
+                    },
+                    {
+                        "name": "Michael",
+                        "duration": 201,
+                        "id": "ab6974f9-0f2d-4a4f-9bb0-afdf5a409e8f"
+                    }
+                ],
+                "id": "7ac6b933-0735-4962-8ef9-d593a7ef550f"
+            },
+            {
+                "name": "You Could Have It So Much Better",
+                "image": "franz_ferdinand_album2_cover.jpg",
+                "releasedDate": "2005-10-03",
+                "band": "Franz Ferdinand",
+                "tracks": [
+                    {
+                        "name": "Do You Want To",
+                        "duration": 208,
+                        "id": "515ea5b4-9b9f-40dd-9a43-3b0621ef9fcf"
+                    },
+                    {
+                        "name": "Walk Away",
+                        "duration": 215,
+                        "id": "72a16dd1-6b5f-4c8a-8e48-9120c424f98a"
+                    },
+                    {
+                        "name": "This Boy",
+                        "duration": 228,
+                        "id": "13f4df4f-76e2-446f-8eb2-e0cf893f37e3"
+                    }
+                ],
+                "id": "3a0d1fc7-3831-4b8f-b3d6-32b6d5b5f3e8"
+            }
+        ]
+    },
+    {
+        "name": "Arcade Fire",
+        "image": "arcade_fire_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "Arcade Fire, formed in 2001, is an indie rock band from Montreal, Quebec, Canada. Known for their orchestral sound and emotive lyrics, the band has received critical acclaim and won multiple Grammy Awards.",
+        "numPlays": 876424,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4548",
+        "albums": [
+            {
+                "name": "Funeral",
+                "image": "arcade_fire_album1_cover.jpg",
+                "releasedDate": "2004-09-14",
+                "band": "Arcade Fire",
+                "tracks": [
+                    {
+                        "name": "Neighborhood #1 (Tunnels)",
+                        "duration": 291,
+                        "id": "6bb7e2d9-5d51-4e10-96ae-90256f35082c"
+                    },
+                    {
+                        "name": "Rebellion (Lies)",
+                        "duration": 302,
+                        "id": "0f73f26c-708e-4391-8b17-84ccf3b736b1"
+                    },
+                    {
+                        "name": "Wake Up",
+                        "duration": 340,
+                        "id": "aa93363d-73d4-4f7d-914b-6f2a218a73b2"
+                    }
+                ],
+                "id": "7e70df24-53b3-4ff9-9a30-3db5e49c4425"
+            },
+            {
+                "name": "The Suburbs",
+                "image": "arcade_fire_album2_cover.jpg",
+                "releasedDate": "2010-08-02",
+                "band": "Arcade Fire",
+                "tracks": [
+                    {
+                        "name": "The Suburbs",
+                        "duration": 321,
+                        "id": "d27b8707-8e13-4f4a-882e-6d01e1bcaaa7"
+                    },
+                    {
+                        "name": "Ready to Start",
+                        "duration": 259,
+                        "id": "8abf72fc-5747-4e51-b0f7-50f8654d44e8"
+                    },
+                    {
+                        "name": "Sprawl II (Mountains Beyond Mountains)",
+                        "duration": 307,
+                        "id": "c675a92e-9f94-4f48-98a0-d1c1cc46bb34"
+                    }
+                ],
+                "id": "0646e52f-646d-4e77-bb63-03b3a51bc9e1"
+            }
+        ]
+    },
+    {
+        "name": "The Black Angels",
+        "image": "the_black_angels_band.jpg",
+        "genre": "Psychedelic Rock",
+        "biography": "The Black Angels, formed in 2004, are a psychedelic rock band from Austin, Texas. Drawing inspiration from 1960s rock and incorporating modern elements, the band is known for their atmospheric sound and introspective lyrics.",
+        "numPlays": 876423,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4549",
+        "albums": [
+            {
+                "name": "Passover",
+                "image": "the_black_angels_album1_cover.jpg",
+                "releasedDate": "2006-04-11",
+                "band": "The Black Angels",
+                "tracks": [
+                    {
+                        "name": "Young Men Dead",
+                        "duration": 343,
+                        "id": "6f0f7c38-4311-4b6c-b2a3-1d09f5f42e0b"
+                    },
+                    {
+                        "name": "The First Vietnamese War",
+                        "duration": 256,
+                        "id": "f50f39ae-6d90-4a87-b9d5-1a8ad4f0fc5e"
+                    },
+                    {
+                        "name": "The Sniper at the Gates of Heaven",
+                        "duration": 281,
+                        "id": "d170cda1-1c5d-4ae7-87bb-85427f4b9227"
+                    }
+                ],
+                "id": "cb6a2188-4cda-4c7c-927c-0a7b2b090586"
+            },
+            {
+                "name": "Directions to See a Ghost",
+                "image": "the_black_angels_album2_cover.jpg",
+                "releasedDate": "2008-04-15",
+                "band": "The Black Angels",
+                "tracks": [
+                    {
+                        "name": "You on the Run",
+                        "duration": 315,
+                        "id": "a0e6a2d4-6dbd-4b26-a343-df37f722661c"
+                    },
+                    {
+                        "name": "Doves",
+                        "duration": 316,
+                        "id": "3aaff9a1-71a7-4c17-8ec5-03cc07f5f2c9"
+                    },
+                    {
+                        "name": "18 Years",
+                        "duration": 246,
+                        "id": "d2d1bb94-9906-4a02-91c3-b79ee1b3c30c"
+                    }
+                ],
+                "id": "1ff5431e-8250-4d9b-bd6f-1b7ff22ef5ea"
+            }
+        ]
+    },
+    {
+        "name": "Bloc Party",
+        "image": "bloc_party_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "Bloc Party, formed in 1999, is an indie rock band from London, England. Known for their energetic and angular sound, the band gained popularity in the mid-2000s with albums like 'Silent Alarm' and hits such as 'Banquet' and 'Helicopter.'",
+        "numPlays": 867632,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4550",
+        "albums": [
+            {
+                "name": "Silent Alarm",
+                "image": "bloc_party_album1_cover.jpg",
+                "releasedDate": "2005-02-02",
+                "band": "Bloc Party",
+                "tracks": [
+                    {
+                        "name": "Helicopter",
+                        "duration": 208,
+                        "id": "13ac0ac7-31cd-4a3b-9c3b-ecc2d63e198a"
+                    },
+                    {
+                        "name": "Banquet",
+                        "duration": 192,
+                        "id": "1659c038-cf3d-4b5b-a779-80155655d8a3"
+                    },
+                    {
+                        "name": "Like Eating Glass",
+                        "duration": 274,
+                        "id": "6d35aa2d-4e66-4b77-9b18-9ff8490d227c"
+                    }
+                ],
+                "id": "b14231aa-68c1-4077-8a4a-d17e338435df"
+            },
+            {
+                "name": "A Weekend in the City",
+                "image": "bloc_party_album2_cover.jpg",
+                "releasedDate": "2007-01-24",
+                "band": "Bloc Party",
+                "tracks": [
+                    {
+                        "name": "I Still Remember",
+                        "duration": 246,
+                        "id": "e1249ad3-50b8-4a68-9cb1-134c16cbea82"
+                    },
+                    {
+                        "name": "The Prayer",
+                        "duration": 212,
+                        "id": "9b3e7ebf-4c8b-48d8-9d6b-37d6acda42f5"
+                    },
+                    {
+                        "name": "Kreuzberg",
+                        "duration": 290,
+                        "id": "9fb9d018-82d3-4b3d-b130-3f8e576aa27d"
+                    }
+                ],
+                "id": "b671547a-0585-482c-8836-6a84c6c321b3"
+            }
+        ]
+    },
+    {
+        "name": "The Cranberries",
+        "image": "the_cranberries_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "The Cranberries, formed in 1989, were an alternative rock band from Limerick, Ireland. Known for the distinctive voice of lead singer Dolores O'Riordan, the band achieved global success with hits like 'Zombie,' 'Linger,' and 'Dreams.'",
+        "numPlays": 876232,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4551",
+        "albums": [
+            {
+                "name": "Everybody Else Is Doing It, So Why Can't We?",
+                "image": "the_cranberries_album1_cover.jpg",
+                "releasedDate": "1993-03-01",
+                "band": "The Cranberries",
+                "tracks": [
+                    {
+                        "name": "Linger",
+                        "duration": 263,
+                        "id": "8b440cb7-1d1b-48aa-81dd-fd5d39447e02"
+                    },
+                    {
+                        "name": "Dreams",
+                        "duration": 253,
+                        "id": "c6acca11-34b7-4077-8034-45c0eeebf5f9"
+                    },
+                    {
+                        "name": "Sunday",
+                        "duration": 206,
+                        "id": "85e80345-2927-4f0f-80e4-0e67b9f76a2a"
+                    }
+                ],
+                "id": "aabfceea-31f2-4d37-9c7a-354f35ff0569"
+            },
+            {
+                "name": "No Need to Argue",
+                "image": "the_cranberries_album2_cover.jpg",
+                "releasedDate": "1994-10-03",
+                "band": "The Cranberries",
+                "tracks": [
+                    {
+                        "name": "Zombie",
+                        "duration": 307,
+                        "id": "69b55cc4-902a-4cc4-b260-4f94e2f4a1ce"
+                    },
+                    {
+                        "name": "Ode to My Family",
+                        "duration": 274,
+                        "id": "5576fc5b-97b8-4a61-9524-672417a4d87c"
+                    },
+                    {
+                        "name": "I Can't Be with You",
+                        "duration": 208,
+                        "id": "3b6a451c-08aa-4e0a-9c57-00166db9a83c"
+                    }
+                ],
+                "id": "c8c217e7-7b0f-456e-baaa-d5a9c586a6d2"
+            }
+        ]
+    },
+    {
+        "name": "Foster the People",
+        "image": "foster_the_people_band.jpg",
+        "genre": "Indie Pop",
+        "biography": "Foster the People, formed in 2009, is an indie pop band from Los Angeles, California. Best known for their breakout hit 'Pumped Up Kicks,' the band combines indie, pop, and electronic elements in their music.",
+        "numPlays": 98232,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4552",
+        "albums": [
+            {
+                "name": "Torches",
+                "image": "foster_the_people_album1_cover.jpg",
+                "releasedDate": "2011-05-23",
+                "band": "Foster the People",
+                "tracks": [
+                    {
+                        "name": "Helena Beat",
+                        "duration": 239,
+                        "id": "a330be6d-bf48-4323-97c7-6f4e888f22a4"
+                    },
+                    {
+                        "name": "Pumped Up Kicks",
+                        "duration": 240,
+                        "id": "e2a4e1ef-eb11-43b1-a0cc-fa7c4fc2e2a3"
+                    },
+                    {
+                        "name": "Don't Stop (Color on the Walls)",
+                        "duration": 169,
+                        "id": "13905a72-5c2d-404f-9d8b-8bb3c64bbec1"
+                    }
+                ],
+                "id": "a3a199e2-7e3a-4d0f-bf02-84d2b43fc8bf"
+            },
+            {
+                "name": "Supermodel",
+                "image": "foster_the_people_album2_cover.jpg",
+                "releasedDate": "2014-03-14",
+                "band": "Foster the People",
+                "tracks": [
+                    {
+                        "name": "Coming of Age",
+                        "duration": 229,
+                        "id": "8f760c8b-1a48-46c3-8641-c2701a49de2a"
+                    },
+                    {
+                        "name": "Best Friend",
+                        "duration": 260,
+                        "id": "31794297-7041-4f24-844d-2f5a5750e575"
+                    },
+                    {
+                        "name": "Are You What You Want to Be?",
+                        "duration": 211,
+                        "id": "f81044e2-f7d0-4c0c-9463-90626ef6adfb"
+                    }
+                ],
+                "id": "ffbdbdb4-4b3d-4c33-80b8-70f3c868e564"
+            }
+        ]
+    },
+    {
+        "name": "The National",
+        "image": "the_national_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "The National, formed in 1999, is an indie rock band from Cincinnati, Ohio. Known for the distinctive baritone vocals of lead singer Matt Berninger and their introspective lyrics, the band has gained critical acclaim for albums like 'High Violet' and 'Sleep Well Beast.'",
+        "numPlays": 43223,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4553",
+        "albums": [
+            {
+                "name": "High Violet",
+                "image": "the_national_album1_cover.jpg",
+                "releasedDate": "2010-05-10",
+                "band": "The National",
+                "tracks": [
+                    {
+                        "name": "Terrible Love",
+                        "duration": 332,
+                        "id": "8a5c29dd-8e49-4e9f-8ef1-31f3c4da2d01"
+                    },
+                    {
+                        "name": "Bloodbuzz Ohio",
+                        "duration": 264,
+                        "id": "46e94726-49b0-42f1-9f6d-43c7a108d2f1"
+                    },
+                    {
+                        "name": "Vanderlyle Crybaby Geeks",
+                        "duration": 242,
+                        "id": "1f6de6d1-c93c-4b2c-bc7a-45fb649eadd2"
+                    }
+                ],
+                "id": "46f4e276-4ef5-4d3a-88da-fb31015997b4"
+            },
+            {
+                "name": "Sleep Well Beast",
+                "image": "the_national_album2_cover.jpg",
+                "releasedDate": "2017-09-08",
+                "band": "The National",
+                "tracks": [
+                    {
+                        "name": "The System Only Dreams in Total Darkness",
+                        "duration": 223,
+                        "id": "56c66f1d-f7c1-42cf-bf4d-7bcbb84441b5"
+                    },
+                    {
+                        "name": "Day I Die",
+                        "duration": 276,
+                        "id": "0e3a3ce3-8ce7-40ad-9936-16da4db131cd"
+                    },
+                    {
+                        "name": "I'll Still Destroy You",
+                        "duration": 324,
+                        "id": "04cbb4a5-f9e1-42b4-a870-bb986bdf5b4d"
+                    }
+                ],
+                "id": "b3ea75bd-9bf7-46f8-9f39-7bb0f44da872"
+            }
+        ]
+    },
+    {
+        "name": "The Raconteurs",
+        "image": "the_raconteurs_band.jpg",
+        "genre": "Rock",
+        "biography": "The Raconteurs, formed in 2005, is a rock band originally from Detroit, Michigan. The band features Jack White, Brendan Benson, Jack Lawrence, and Patrick Keeler. Known for their blues-infused rock sound, The Raconteurs gained recognition with albums like 'Broken Boy Soldiers.'",
+        "numPlays": 42325,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4554",
+        "albums": [
+            {
+                "name": "Broken Boy Soldiers",
+                "image": "the_raconteurs_album1_cover.jpg",
+                "releasedDate": "2006-05-15",
+                "band": "The Raconteurs",
+                "tracks": [
+                    {
+                        "name": "Steady, As She Goes",
+                        "duration": 222,
+                        "id": "5f90f702-9d27-44f2-bdd4-bbafae5e2501"
+                    },
+                    {
+                        "name": "Hands",
+                        "duration": 243,
+                        "id": "f5eb57c1-42a7-4816-8ac1-ae5303f1e401"
+                    },
+                    {
+                        "name": "Level",
+                        "duration": 266,
+                        "id": "fae7cd3f-c677-4e93-9374-0d18558bb6cd"
+                    }
+                ],
+                "id": "20f7ec5c-1e46-4b3b-9a56-5c3f5255f08d"
+            },
+            {
+                "name": "Consolers of the Lonely",
+                "image": "the_raconteurs_album2_cover.jpg",
+                "releasedDate": "2008-03-25",
+                "band": "The Raconteurs",
+                "tracks": [
+                    {
+                        "name": "Salute Your Solution",
+                        "duration": 179,
+                        "id": "0f5b2d37-6f6f-428b-bdb5-0628e3fb2944"
+                    },
+                    {
+                        "name": "You Don't Understand Me",
+                        "duration": 346,
+                        "id": "79c636d1-5d6d-4e20-bc8a-ea1a130913f9"
+                    },
+                    {
+                        "name": "Many Shades of Black",
+                        "duration": 260,
+                        "id": "09aa42b5-862e-4930-bc06-1a6ba36e1392"
+                    }
+                ],
+                "id": "6e3b5b19-07e4-4a13-8f0e-9c46d8979f1b"
+            }
+        ]
+    },
+    {
+        "name": "Tame Impala",
+        "image": "tame_impala_band.jpg",
+        "genre": "Psychedelic Rock",
+        "biography": "Tame Impala, formed in 2007, is a psychedelic rock project led by Kevin Parker from Perth, Australia. Known for their dreamy and experimental sound, Tame Impala has gained widespread acclaim with albums like 'Currents' and hits like 'The Less I Know the Better.'",
+        "numPlays": 53232,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4555",
+        "albums": [
+            {
+                "name": "Innerspeaker",
+                "image": "tame_impala_album1_cover.jpg",
+                "releasedDate": "2010-05-21",
+                "band": "Tame Impala",
+                "tracks": [
+                    {
+                        "name": "It Is Not Meant to Be",
+                        "duration": 347,
+                        "id": "13ac6eaf-63c0-4b7d-8871-844ee702b650"
+                    },
+                    {
+                        "name": "Solitude Is Bliss",
+                        "duration": 309,
+                        "id": "120a78f5-0ee5-4eb0-b993-07da77f8109c"
+                    },
+                    {
+                        "name": "Lucidity",
+                        "duration": 324,
+                        "id": "c1cf13b7-7980-4d2f-bc0e-61c282672cb6"
+                    }
+                ],
+                "id": "e1e9b2c9-02e2-4715-8c88-31bf14eb6c38"
+            },
+            {
+                "name": "Currents",
+                "image": "tame_impala_album2_cover.jpg",
+                "releasedDate": "2015-07-17",
+                "band": "Tame Impala",
+                "tracks": [
+                    {
+                        "name": "Let It Happen",
+                        "duration": 467,
+                        "id": "6b8a15f9-489c-4d2d-8eb0-8a55efb198b8"
+                    },
+                    {
+                        "name": "The Less I Know the Better",
+                        "duration": 326,
+                        "id": "afe2820b-9366-46ea-b7c6-64b0f77b0fcf"
+                    },
+                    {
+                        "name": "Eventually",
+                        "duration": 353,
+                        "id": "3f86083b-4b42-4fe4-a9cf-b0152c34ec67"
+                    }
+                ],
+                "id": "f081a693-4e2f-47d0-94a4-145c5da14eeb"
+            }
+        ]
+    },
+    {
+        "name": "The War on Drugs",
+        "image": "the_war_on_drugs_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "The War on Drugs, formed in 2005, is an indie rock band from Philadelphia, Pennsylvania. Led by Adam Granduciel, the band is known for their atmospheric sound blending elements of rock, folk, and Americana. They gained critical acclaim with albums like 'Lost in the Dream.'",
+        "numPlays": 53252,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4556",
+        "albums": [
+            {
+                "name": "Lost in the Dream",
+                "image": "the_war_on_drugs_album1_cover.jpg",
+                "releasedDate": "2014-03-18",
+                "band": "The War on Drugs",
+                "tracks": [
+                    {
+                        "name": "Under the Pressure",
+                        "duration": 449,
+                        "id": "f60e0a74-23b5-4d43-8f5a-54d456c06699"
+                    },
+                    {
+                        "name": "Red Eyes",
+                        "duration": 297,
+                        "id": "f858b40d-8dc8-45e7-8001-012c1c963cc9"
+                    },
+                    {
+                        "name": "Burning",
+                        "duration": 331,
+                        "id": "9edfe7b5-3c7d-4c2f-b606-996193d7f6bb"
+                    }
+                ],
+                "id": "7d2e5df6-c74a-4ea3-97d0-69e0fc27a6f2"
+            },
+            {
+                "name": "A Deeper Understanding",
+                "image": "the_war_on_drugs_album2_cover.jpg",
+                "releasedDate": "2017-08-25",
+                "band": "The War on Drugs",
+                "tracks": [
+                    {
+                        "name": "Thinking of a Place",
+                        "duration": 587,
+                        "id": "cf93a6e8-ba5c-4e2a-987b-dbd159b214cb"
+                    },
+                    {
+                        "name": "Holding On",
+                        "duration": 319,
+                        "id": "e8b3a495-5f9d-42db-ae13-d0e2e2b057c3"
+                    },
+                    {
+                        "name": "Up All Night",
+                        "duration": 331,
+                        "id": "2f71c432-52d4-4a4b-8655-9b501c03dfc7"
+                    }
+                ],
+                "id": "6f9b60f8-cd34-4ba2-b8fb-92d8c2a09d9b"
+            }
+        ]
+    },
+    {
+        "name": "Yeah Yeah Yeahs",
+        "image": "yeah_yeah_yeahs_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "Yeah Yeah Yeahs, formed in 2000, is an indie rock band from New York City. The band consists of Karen O, Nick Zinner, and Brian Chase. Known for their energetic performances and Karen O's distinctive vocals, Yeah Yeah Yeahs gained popularity with albums like 'Fever to Tell' and hits like 'Maps.'",
+        "numPlays": 64543,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4557",
+        "albums": [
+            {
+                "name": "Fever to Tell",
+                "image": "yeah_yeah_yeahs_album1_cover.jpg",
+                "releasedDate": "2003-04-29",
+                "band": "Yeah Yeah Yeahs",
+                "tracks": [
+                    {
+                        "name": "Maps",
+                        "duration": 267,
+                        "id": "b119c70d-9d5a-44dd-b2d2-61c247244453"
+                    },
+                    {
+                        "name": "Y Control",
+                        "duration": 289,
+                        "id": "5f56312a-6f88-44c0-b39a-03b0afafdf41"
+                    },
+                    {
+                        "name": "Date with the Night",
+                        "duration": 168,
+                        "id": "19bc7f4c-1355-4a17-9f5d-37f0487a7640"
+                    }
+                ],
+                "id": "c1238a07-7bb1-44ed-84e3-ff15c1de36db"
+            },
+            {
+                "name": "It's Blitz!",
+                "image": "yeah_yeah_yeahs_album2_cover.jpg",
+                "releasedDate": "2009-03-06",
+                "band": "Yeah Yeah Yeahs",
+                "tracks": [
+                    {
+                        "name": "Zero",
+                        "duration": 259,
+                        "id": "37275ea7-8aa2-4a15-9db6-4d17f4eaa22d"
+                    },
+                    {
+                        "name": "Heads Will Roll",
+                        "duration": 220,
+                        "id": "92425e20-4bbf-4471-9c1c-c17a6bf9f13a"
+                    },
+                    {
+                        "name": "Skeletons",
+                        "duration": 252,
+                        "id": "40c8046b-6a54-4bc7-8c3c-535c1c158aad"
+                    }
+                ],
+                "id": "743ac183-6323-4c97-9480-2c424eb340f3"
+            }
+        ]
+    },
+    {
+        "name": "Alt-J",
+        "image": "alt_j_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "Alt-J, formed in 2007, is an indie rock band from Leeds, England. The band's unique sound combines indie, folk, and electronic elements, earning them critical acclaim and accolades. Alt-J is known for albums like 'An Awesome Wave' and 'This Is All Yours.'",
+        "numPlays": 75653,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4558",
+        "albums": [
+            {
+                "name": "An Awesome Wave",
+                "image": "alt_j_album1_cover.jpg",
+                "releasedDate": "2012-05-25",
+                "band": "Alt-J",
+                "tracks": [
+                    {
+                        "name": "Intro",
+                        "duration": 182,
+                        "id": "d953e870-0a89-4ef0-bc4a-ff590153b61c"
+                    },
+                    {
+                        "name": "Breezeblocks",
+                        "duration": 238,
+                        "id": "522218a5-6a3a-42c3-90b5-c14dfc91e634"
+                    },
+                    {
+                        "name": "Tessellate",
+                        "duration": 189,
+                        "id": "c0342c33-e7e1-45b4-8fbb-17de01f3a1fb"
+                    }
+                ],
+                "id": "a4a461cf-6e3c-4b4f-a0f4-5d6d5ea86157"
+            },
+            {
+                "name": "This Is All Yours",
+                "image": "alt_j_album2_cover.jpg",
+                "releasedDate": "2014-09-22",
+                "band": "Alt-J",
+                "tracks": [
+                    {
+                        "name": "Hunger of the Pine",
+                        "duration": 274,
+                        "id": "bc81fcf9-60d1-45f0-aed6-68d5a4e028b2"
+                    },
+                    {
+                        "name": "Left Hand Free",
+                        "duration": 172,
+                        "id": "b1a3d77c-cf06-4774-9b31-14e9f9d5c48d"
+                    },
+                    {
+                        "name": "Every Other Freckle",
+                        "duration": 226,
+                        "id": "a9f45c51-1b46-4711-8ab1-b4fc837670ad"
+                    }
+                ],
+                "id": "e4f2bbd4-ee95-41a3-bc7d-66c30329e9d5"
+            }
+        ]
+    },
+    {
+        "name": "Cage the Elephant",
+        "image": "cage_the_elephant_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "Cage the Elephant, formed in 2006, is an alternative rock band from Bowling Green, Kentucky. The band gained widespread recognition with their energetic live performances and hits like 'Ain't No Rest for the Wicked' and 'Shake Me Down.'",
+        "numPlays": 75834,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4559",
+        "albums": [
+            {
+                "name": "Cage the Elephant",
+                "image": "cage_the_elephant_album1_cover.jpg",
+                "releasedDate": "2008-06-23",
+                "band": "Cage the Elephant",
+                "tracks": [
+                    {
+                        "name": "In One Ear",
+                        "duration": 263,
+                        "id": "a1c05122-d0d4-48b4-b2f2-78adad5b1e95"
+                    },
+                    {
+                        "name": "Ain't No Rest for the Wicked",
+                        "duration": 178,
+                        "id": "17d0e3da-cf3c-4d94-8235-74db4ea15a54"
+                    },
+                    {
+                        "name": "Back Against the Wall",
+                        "duration": 216,
+                        "id": "f6195f0b-786a-4932-a82d-8e7b2f29de5d"
+                    }
+                ],
+                "id": "ed1eaebe-df70-4ff2-9a3c-2f5841d1be2c"
+            },
+            {
+                "name": "Melophobia",
+                "image": "cage_the_elephant_album2_cover.jpg",
+                "releasedDate": "2013-10-08",
+                "band": "Cage the Elephant",
+                "tracks": [
+                    {
+                        "name": "Come a Little Closer",
+                        "duration": 239,
+                        "id": "93f60b94-ec96-4c88-bcb5-1a456f4650b8"
+                    },
+                    {
+                        "name": "Cigarette Daydreams",
+                        "duration": 210,
+                        "id": "6c4d4294-8c60-47c7-8b9c-61b37b7f6b76"
+                    },
+                    {
+                        "name": "Telescope",
+                        "duration": 204,
+                        "id": "58626b7d-058f-4ac3-9d01-92e7c1da55a4"
+                    }
+                ],
+                "id": "9a4e0b2b-69c3-41f9-8e04-30bb0e90e20d"
+            }
+        ]
+    },
+    {
+        "name": "Death Cab for Cutie",
+        "image": "death_cab_for_cutie_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "Death Cab for Cutie, formed in 1997, is an indie rock band from Bellingham, Washington. The band, fronted by Ben Gibbard, is known for its introspective lyrics and melodic sound. Death Cab for Cutie has released acclaimed albums like 'Transatlanticism' and 'Plans.'",
+        "numPlays": 35464,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4560",
+        "albums": [
+            {
+                "name": "Transatlanticism",
+                "image": "death_cab_for_cutie_album1_cover.jpg",
+                "releasedDate": "2003-10-07",
+                "band": "Death Cab for Cutie",
+                "tracks": [
+                    {
+                        "name": "The New Year",
+                        "duration": 286,
+                        "id": "b0e8a7c5-2ec2-40c7-a697-b0adcfdbb177"
+                    },
+                    {
+                        "name": "Title and Registration",
+                        "duration": 251,
+                        "id": "b7058c5a-5a01-4d7e-89c9-a7f2f8d3fd44"
+                    },
+                    {
+                        "name": "Transatlanticism",
+                        "duration": 413,
+                        "id": "c16ddfa3-9bb0-4877-8b90-835a6a92b81a"
+                    }
+                ],
+                "id": "734f54ab-3b9f-4cc1-b8f3-1b99ec1e10e0"
+            },
+            {
+                "name": "Plans",
+                "image": "death_cab_for_cutie_album2_cover.jpg",
+                "releasedDate": "2005-08-30",
+                "band": "Death Cab for Cutie",
+                "tracks": [
+                    {
+                        "name": "I Will Follow You into the Dark",
+                        "duration": 209,
+                        "id": "6bb90ad1-2ee9-41e9-8be5-544b6c3e1131"
+                    },
+                    {
+                        "name": "Soul Meets Body",
+                        "duration": 227,
+                        "id": "41e2ea10-98ec-4674-98ee-d8a9f48b96cb"
+                    },
+                    {
+                        "name": "Marching Bands of Manhattan",
+                        "duration": 294,
+                        "id": "d43c4e1d-6fa2-4478-8df5-3a46a3be6e63"
+                    }
+                ],
+                "id": "a5871852-9a08-4714-a45a-e3207845838e"
+            }
+        ]
+    },
+    {
+        "name": "The Shins",
+        "image": "the_shins_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "The Shins, formed in 1996, is an indie rock band from Albuquerque, New Mexico. Fronted by James Mercer, the band is known for its melodic and introspective music. The Shins gained popularity with albums like 'Oh, Inverted World' and 'Chutes Too Narrow.'",
+        "numPlays": 86553,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4561",
+        "albums": [
+            {
+                "name": "Oh, Inverted World",
+                "image": "the_shins_album1_cover.jpg",
+                "releasedDate": "2001-06-19",
+                "band": "The Shins",
+                "tracks": [
+                    {
+                        "name": "Caring Is Creepy",
+                        "duration": 211,
+                        "id": "af3ec160-670e-4a1c-bc10-5d3f8d08c422"
+                    },
+                    {
+                        "name": "New Slang",
+                        "duration": 233,
+                        "id": "49ac9d01-85ea-4a8f-9c49-3da6509bc12c"
+                    },
+                    {
+                        "name": "Pressed in a Book",
+                        "duration": 130,
+                        "id": "23e4d3aa-b2a8-4d63-89ef-14e8554f9637"
+                    }
+                ],
+                "id": "a5ff66c5-59c7-4bc4-90aa-02a666ea0c25"
+            },
+            {
+                "name": "Chutes Too Narrow",
+                "image": "the_shins_album2_cover.jpg",
+                "releasedDate": "2003-10-21",
+                "band": "The Shins",
+                "tracks": [
+                    {
+                        "name": "Kissing the Lipless",
+                        "duration": 159,
+                        "id": "aeb6e0c5-961d-4f84-b571-8396924b79a6"
+                    },
+                    {
+                        "name": "So Says I",
+                        "duration": 162,
+                        "id": "baf2737d-b87a-4f33-8f71-ecb75e78563b"
+                    },
+                    {
+                        "name": "Saint Simon",
+                        "duration": 253,
+                        "id": "d28d1090-87e9-4b05-9e6d-35010d0630f8"
+                    }
+                ],
+                "id": "077b9a82-7de0-4526-b9d3-7a87e0ee45bf"
+            }
+        ]
+    },
+    {
+        "name": "Vampire Weekend",
+        "image": "vampire_weekend_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "Vampire Weekend, formed in 2006, is an indie rock band from New York City. Known for their eclectic musical style that blends indie rock with world music influences, the band gained acclaim with albums like 'Vampire Weekend' and 'Modern Vampires of the City.'",
+        "numPlays": 76457,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4562",
+        "albums": [
+            {
+                "name": "Vampire Weekend",
+                "image": "vampire_weekend_album1_cover.jpg",
+                "releasedDate": "2008-01-29",
+                "band": "Vampire Weekend",
+                "tracks": [
+                    {
+                        "name": "A-Punk",
+                        "duration": 131,
+                        "id": "168b61f2-c144-4c6d-91a9-0ff6fcdb9461"
+                    },
+                    {
+                        "name": "Oxford Comma",
+                        "duration": 209,
+                        "id": "af9ba7d9-7f9e-40ce-94ec-1c4a012f702c"
+                    },
+                    {
+                        "name": "Cape Cod Kwassa Kwassa",
+                        "duration": 192,
+                        "id": "3cf850ad-0024-40e9-8640-d15eb3a1a1e1"
+                    }
+                ],
+                "id": "df328256-4802-4b6b-8d7b-d6e5b700b0e5"
+            },
+            {
+                "name": "Modern Vampires of the City",
+                "image": "vampire_weekend_album2_cover.jpg",
+                "releasedDate": "2013-05-14",
+                "band": "Vampire Weekend",
+                "tracks": [
+                    {
+                        "name": "Diane Young",
+                        "duration": 146,
+                        "id": "bdf5b680-0d36-46a9-ba52-58c04aa2aaed"
+                    },
+                    {
+                        "name": "Unbelievers",
+                        "duration": 173,
+                        "id": "c3cfe91e-71a9-41df-9d68-1e3c1c40cfdf"
+                    },
+                    {
+                        "name": "Step",
+                        "duration": 240,
+                        "id": "b96756d0-6ab7-4b0d-b290-02c1b7f1f27c"
+                    }
+                ],
+                "id": "02c8f007-b174-4e7c-9fa6-6d77e8b83b76"
+            }
+        ]
+    },
+    {
+        "name": "Fleet Foxes",
+        "image": "fleet_foxes_band.jpg",
+        "genre": "Indie Folk",
+        "biography": "Fleet Foxes, formed in 2006, is an indie folk band from Seattle, Washington. The band, led by singer-songwriter Robin Pecknold, is known for their harmonic and melodic folk sound. Fleet Foxes gained acclaim with albums like 'Fleet Foxes' and 'Helplessness Blues.'",
+        "numPlays": 85675,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4563",
+        "albums": [
+            {
+                "name": "Fleet Foxes",
+                "image": "fleet_foxes_album1_cover.jpg",
+                "releasedDate": "2008-06-03",
+                "band": "Fleet Foxes",
+                "tracks": [
+                    {
+                        "name": "White Winter Hymnal",
+                        "duration": 168,
+                        "id": "b10604e0-b4a9-4d7f-804e-ae98e8f0462b"
+                    },
+                    {
+                        "name": "Ragged Wood",
+                        "duration": 234,
+                        "id": "6d5e1530-704d-4422-8131-bff473406b85"
+                    },
+                    {
+                        "name": "Blue Ridge Mountains",
+                        "duration": 269,
+                        "id": "1c0f8945-7f9f-4a68-ba78-bb40837e9777"
+                    }
+                ],
+                "id": "8e09f1fe-d8d0-4083-a8da-2f42de9a2be7"
+            },
+            {
+                "name": "Helplessness Blues",
+                "image": "fleet_foxes_album2_cover.jpg",
+                "releasedDate": "2011-05-03",
+                "band": "Fleet Foxes",
+                "tracks": [
+                    {
+                        "name": "Helplessness Blues",
+                        "duration": 313,
+                        "id": "e5a9dd92-f4e7-493e-87cf-1f161e227086"
+                    },
+                    {
+                        "name": "Battery Kinzie",
+                        "duration": 161,
+                        "id": "9e762935-6d56-4b43-9056-370c0053fbfa"
+                    },
+                    {
+                        "name": "The Shrine / An Argument",
+                        "duration": 544,
+                        "id": "c9a4f8ed-e19b-47d5-bd98-8483a42d7d61"
+                    }
+                ],
+                "id": "07845d04-157b-4e5b-b7d2-3a19e831db2d"
+            }
+        ]
+    },
+    {
+        "name": "Two Door Cinema Club",
+        "image": "two_door_cinema_club_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "Two Door Cinema Club, formed in 2007, is an indie rock band from Bangor and Donaghadee, Northern Ireland. The band gained popularity with their catchy and energetic indie pop-rock sound. Two Door Cinema Club is known for albums like 'Tourist History' and 'Beacon.'",
+        "numPlays": 75345,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4564",
+        "albums": [
+            {
+                "name": "Tourist History",
+                "image": "two_door_cinema_club_album1_cover.jpg",
+                "releasedDate": "2010-02-17",
+                "band": "Two Door Cinema Club",
+                "tracks": [
+                    {
+                        "name": "What You Know",
+                        "duration": 194,
+                        "id": "3c63668e-6e6b-46e4-9be3-16e222722ac3"
+                    },
+                    {
+                        "name": "Undercover Martyn",
+                        "duration": 177,
+                        "id": "3f1360c3-4644-409a-a3f8-b0a3e2658de2"
+                    },
+                    {
+                        "name": "I Can Talk",
+                        "duration": 170,
+                        "id": "11025a04-9243-4ab3-b172-7040598e6a46"
+                    }
+                ],
+                "id": "5318e06f-1c85-46f1-9c95-0d2e93b13216"
+            },
+            {
+                "name": "Beacon",
+                "image": "two_door_cinema_club_album2_cover.jpg",
+                "releasedDate": "2012-09-03",
+                "band": "Two Door Cinema Club",
+                "tracks": [
+                    {
+                        "name": "Sleep Alone",
+                        "duration": 197,
+                        "id": "48769b88-036c-4e10-aac1-5f4b858b8612"
+                    },
+                    {
+                        "name": "Sun",
+                        "duration": 192,
+                        "id": "8a6a8225-1c8c-407f-827b-96f902bf3c0b"
+                    },
+                    {
+                        "name": "Next Year",
+                        "duration": 203,
+                        "id": "48c33b2d-b8b7-4a22-9d12-9631db9a7e44"
+                    }
+                ],
+                "id": "d9435a5c-aaab-4e45-ae56-4e72f2810b63"
+            }
+        ]
+    },
+    {
+        "name": "The Wombats",
+        "image": "the_wombats_band.jpg",
+        "genre": "Indie Rock",
+        "biography": "The Wombats, formed in 2003, are an indie rock band from Liverpool, England. Known for their energetic and infectious indie pop-rock sound, the band gained popularity with hits like 'Let's Dance to Joy Division' and 'Tokyo (Vampires & Wolves).'",
+        "numPlays": 45643,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4565",
+        "albums": [
+            {
+                "name": "A Guide to Love, Loss & Desperation",
+                "image": "the_wombats_album1_cover.jpg",
+                "releasedDate": "2007-11-05",
+                "band": "The Wombats",
+                "tracks": [
+                    {
+                        "name": "Let's Dance to Joy Division",
+                        "duration": 203,
+                        "id": "d52e6530-72aa-408b-990c-ef0e6f24a381"
+                    },
+                    {
+                        "name": "Moving to New York",
+                        "duration": 189,
+                        "id": "25eaa065-ea47-41b0-a6d9-2b32c636e0e4"
+                    },
+                    {
+                        "name": "Kill the Director",
+                        "duration": 157,
+                        "id": "b3f48d49-3e10-4674-aebc-19e84385fe13"
+                    }
+                ],
+                "id": "7b1a4c11-227a-4b11-a9c1-fc2f39e78043"
+            },
+            {
+                "name": "Beautiful People Will Ruin Your Life",
+                "image": "the_wombats_album2_cover.jpg",
+                "releasedDate": "2018-02-09",
+                "band": "The Wombats",
+                "tracks": [
+                    {
+                        "name": "Lemon to a Knife Fight",
+                        "duration": 215,
+                        "id": "e95b775f-3fc3-45ef-ae56-4f91b324b900"
+                    },
+                    {
+                        "name": "Turn",
+                        "duration": 190,
+                        "id": "7c345bea-8963-44b9-93f4-37a85aa7889e"
+                    },
+                    {
+                        "name": "Cheetah Tongue",
+                        "duration": 203,
+                        "id": "e24f36e4-cf0f-40b3-8df1-8f25d1661c36"
+                    }
+                ],
+                "id": "944ba40b-3f8b-44ac-8a6c-5839b02ec981"
+            }
+        ]
+    },
+    {
+        "name": "Silversun Pickups",
+        "image": "silversun_pickups_band.jpg",
+        "genre": "Alternative Rock",
+        "biography": "Silversun Pickups, formed in 2000, are an alternative rock band from Los Angeles, California. Known for their dreamy and atmospheric sound, the band gained popularity with albums like 'Carnavas' and 'Swoon.'",
+        "numPlays": 64457,
+        "id": "a1f8e88c-2a08-4c49-aa9e-000005dc4566",
+        "albums": [
+            {
+                "name": "Carnavas",
+                "image": "silversun_pickups_album1_cover.jpg",
+                "releasedDate": "2006-07-25",
+                "band": "Silversun Pickups",
+                "tracks": [
+                    {
+                        "name": "Lazy Eye",
+                        "duration": 318,
+                        "id": "feeb9c2d-43cf-4d26-9256-1accc834df69"
+                    },
+                    {
+                        "name": "Well Thought Out Twinkles",
+                        "duration": 265,
+                        "id": "8e0722c1-59c5-4a5d-953b-117d10d02a16"
+                    },
+                    {
+                        "name": "Panic Switch",
+                        "duration": 279,
+                        "id": "9efc12d8-e6f9-4cc1-8c21-8a0cbfb5c8e1"
+                    }
+                ],
+                "id": "b03592b1-742c-4656-b996-6bcbe1b64c08"
+            },
+            {
+                "name": "Swoon",
+                "image": "silversun_pickups_album2_cover.jpg",
+                "releasedDate": "2009-04-14",
+                "band": "Silversun Pickups",
+                "tracks": [
+                    {
+                        "name": "Panic Switch",
+                        "duration": 259,
+                        "id": "9a1b9d63-dcf1-4043-a603-cf42b5a03e32"
+                    },
+                    {
+                        "name": "Substitution",
+                        "duration": 266,
+                        "id": "92a35251-013f-4d6e-b65f-dff88d71aaef"
+                    },
+                    {
+                        "name": "The Royal We",
+                        "duration": 288,
+                        "id": "5b7e282d-5e19-4e9f-86e5-6d0f4b2f64e3"
+                    }
+                ],
+                "id": "f07ef803-71b9-4c60-8f9e-8b7c0a21df5b"
+            }
+        ]
+    }
+]
